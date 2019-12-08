@@ -45,7 +45,7 @@ public class PlayerController : MonoBehaviour {
 
     void GetInputKey()
     {
-        key = 0;
+            key = 0;
         if (Input.GetKey(KeyCode.RightArrow))
             key = 1;
         if (Input.GetKey(KeyCode.LeftArrow))
@@ -93,7 +93,7 @@ public class PlayerController : MonoBehaviour {
             //jump
             if (Input.GetKeyDown(KeyCode.Space))
             {
-                this.rb.AddForce(transform.up * this.jumpForce);
+                rb.AddForce(transform.up * jumpForce);
                 isGround = false;
             }
         }
@@ -101,18 +101,18 @@ public class PlayerController : MonoBehaviour {
         {
             if (state == "FALL")
             {
-                this.rb.AddForce(transform.up * -30f);
+                rb.AddForce(transform.up * -30f);
             }
         }
         
-        float speedX = Mathf.Abs(this.rb.velocity.x);
-        if (speedX < this.runThreshold)
+        float speedX = Mathf.Abs(rb.velocity.x);
+        if (speedX < runThreshold)
         {
-            this.rb.AddForce(transform.right * key * this.runForce * stateEffect); 
+            rb.AddForce(transform.right * key * runForce * stateEffect); 
         }
         else
         {
-            this.transform.position += new Vector3(runSpeed * Time.deltaTime * key * stateEffect, 0, 0);
+            transform.position += new Vector3(runSpeed * Time.deltaTime * key * stateEffect, 0, 0);
         }
 
     }
