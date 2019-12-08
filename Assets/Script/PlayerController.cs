@@ -5,7 +5,8 @@ using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour {
 
-
+    [SerializeField]
+    Text checkText;
    
 
     Rigidbody2D rb;
@@ -22,9 +23,9 @@ public class PlayerController : MonoBehaviour {
     int key = 0;                 
 
     string state;                
-    float stateEffect = 1;       
+    float stateEffect = 1;
 
-
+    private float jumpCount=0;
 
     void Start()
     {
@@ -33,6 +34,7 @@ public class PlayerController : MonoBehaviour {
 
     void Update()
     {
+        checkText.text = jumpCount.ToString() + " state" + state;
 
         GetInputKey();        
         ChangeState();         
@@ -93,15 +95,25 @@ public class PlayerController : MonoBehaviour {
             //jump
             if (Input.GetKeyDown(KeyCode.Space))
             {
+
                 rb.AddForce(transform.up * jumpForce);
+                jumpCount++;
                 isGround = false;
-            }
+              }
         }
         if (!isGround)
         {
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
+                if (jumpCount <1)
+                {
+                    rb.AddForce(transform.up * jumpForce);
+                    jumpCount++;
+                }
+            }
             if (state == "FALL")
             {
-                rb.AddForce(transform.up * -30f);
+                rb.AddForce(transform.up * -100f);
             }
         }
         
@@ -123,6 +135,7 @@ public class PlayerController : MonoBehaviour {
         if (col.gameObject.tag == "Ground")
         {
             if (!isGround)   isGround = true;
+            jumpCount = 0;
         }
     }
 
@@ -131,6 +144,7 @@ public class PlayerController : MonoBehaviour {
         if (col.gameObject.tag == "Ground")
         {
             if (!isGround)    isGround = true;
+            jumpCount = 0;
         }
     }
 
