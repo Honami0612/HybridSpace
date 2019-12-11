@@ -5,10 +5,6 @@ using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour {
 
-    [SerializeField]
-    Text checkText;
-   
-
     Rigidbody2D rb;
     
     [SerializeField]
@@ -27,6 +23,11 @@ public class PlayerController : MonoBehaviour {
 
     private float jumpCount=0;
 
+    [SerializeField]
+    GameObject ball;
+    [SerializeField]
+    GameObject mator;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -34,10 +35,12 @@ public class PlayerController : MonoBehaviour {
 
     void Update()
     {
-        checkText.text = jumpCount.ToString() + " state" + state;
+        //checkText.text = jumpCount.ToString() + " state" + state;
 
         GetInputKey();        
-        ChangeState();         
+        ChangeState();
+        HitEnemy();
+
     }
 
     private void FixedUpdate()
@@ -48,9 +51,9 @@ public class PlayerController : MonoBehaviour {
     void GetInputKey()
     {
             key = 0;
-        if (Input.GetKey(KeyCode.RightArrow))
+        if (Input.GetKey(KeyCode.D))
             key = 1;
-        if (Input.GetKey(KeyCode.LeftArrow))
+        if (Input.GetKey(KeyCode.A))
             key = -1;
     }
 
@@ -129,7 +132,17 @@ public class PlayerController : MonoBehaviour {
 
     }
 
-    
+   void HitEnemy()
+    {
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            Instantiate(ball, new Vector3(this.gameObject.transform.position.x + 2.5f, this.gameObject.transform.position.y, 0), Quaternion.identity);
+            Instantiate(mator, new Vector3(this.gameObject.transform.position.x + 2.5f, this.gameObject.transform.position.y, 0), Quaternion.identity);
+        }
+       
+    }
+
+
     void OnCollisionEnter2D(Collision2D col)
     {
         if (col.gameObject.tag == "Ground")
@@ -148,6 +161,5 @@ public class PlayerController : MonoBehaviour {
         }
     }
 
-   
 
 }
