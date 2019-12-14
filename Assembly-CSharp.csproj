@@ -64,10 +64,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\Door.cs" />
+    <Compile Include="Assets\Script\Enemy.cs" />
+    <Compile Include="Assets\Script\FadeController.cs" />
     <Compile Include="Assets\Script\ModeChange.cs" />
     <Compile Include="Assets\Script\PlayerController.cs" />
     <Compile Include="Assets\Script\Shot.cs" />
-    <Compile Include="Assets\Script\test.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/honami/Unity/HybridSpace/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
