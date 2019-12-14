@@ -19,7 +19,7 @@ public class Door : MonoBehaviour {
 	void Start () {
         modeChange = GameObject.FindWithTag("Player").GetComponent<ModeChange>();
         fadeController = GameObject.Find("Panel").GetComponent<FadeController>();
-       
+        Debug.Log(SceneManager.GetActiveScene().name);
 	}
 	
 	// Update is called once per frame
@@ -54,6 +54,8 @@ public class Door : MonoBehaviour {
             SceneManager.LoadScene("Tutorial2");
         }else if (SceneManager.GetActiveScene().name == "Tutorial2")
         {
+            SceneManager.LoadScene("Tutorial1");
+            Debug.Log("GameStart");
             //GameStart
         }
         

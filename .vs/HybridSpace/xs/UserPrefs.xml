@@ -2,11 +2,11 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Door.cs">
     <Files>
       <File FileName="Assets/Script/PlayerController.cs" Line="71" Column="22" />
-      <File FileName="Assets/Script/Shot.cs" Line="73" Column="63" />
+      <File FileName="Assets/Script/Shot.cs" />
       <File FileName="Assets/Script/ModeChange.cs" Line="92" Column="5" />
-      <File FileName="Assets/Script/Enemy.cs" Line="28" Column="42" />
+      <File FileName="Assets/Script/Enemy.cs" />
       <File FileName="Assets/Script/Door.cs" Line="58" Column="10" />
-      <File FileName="Assets/Script/FadeController.cs" Line="56" Column="23" />
+      <File FileName="Assets/Script/FadeController.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,7 +24,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d6ca1d09-4cac-407f-a645-7c5c6d3eb8df" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7218aa72-dbd4-40c4-ad8e-bb1ecefe27f8" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
