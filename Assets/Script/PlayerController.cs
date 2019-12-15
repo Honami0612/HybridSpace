@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using System.IO.Ports;
 
 public class PlayerController : MonoBehaviour {
 
@@ -51,9 +52,9 @@ public class PlayerController : MonoBehaviour {
     void GetInputKey()
     {
             key = 0;
-        if (Input.GetKey(KeyCode.D))
+        if (Input.GetKey(KeyCode.D) || Flute.C)
             key = 1;
-        if (Input.GetKey(KeyCode.A))
+        if (Input.GetKey(KeyCode.A) || Flute.D)
             key = -1;
     }
 
@@ -96,7 +97,7 @@ public class PlayerController : MonoBehaviour {
         if (isGround)
         {
             //jump
-            if (Input.GetKeyDown(KeyCode.Space))
+            if (Input.GetKeyDown(KeyCode.Space) || Flute.breath)
             {
 
                 rb.AddForce(transform.up * jumpForce);
