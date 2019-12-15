@@ -18,7 +18,7 @@ public class Block : MonoBehaviour
                 Destroy(this.gameObject);
             }else if (nobreak)
             {
-                //this.gameObject.GetComponent<>
+                this.gameObject.GetComponent<Renderer>().material.color = Color.black;
             }
         } 
     }
