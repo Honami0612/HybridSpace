@@ -52,9 +52,9 @@ public class PlayerController : MonoBehaviour {
     void GetInputKey()
     {
             key = 0;
-        if (Input.GetKey(KeyCode.D) || Flute.C)
+        if (Input.GetKey(KeyCode.D) || Flute.C || Input.GetKey(KeyCode.R) && Input.GetKey(KeyCode.I))
             key = 1;
-        if (Input.GetKey(KeyCode.A) || Flute.D)
+        if (Input.GetKey(KeyCode.A) || Flute.D || Input.GetKey(KeyCode.R) && Input.GetKey(KeyCode.U))
             key = -1;
     }
 
@@ -97,7 +97,7 @@ public class PlayerController : MonoBehaviour {
         if (isGround)
         {
             //jump
-            if (Input.GetKeyDown(KeyCode.Space) || Flute.breath)
+            if (Input.GetKeyDown(KeyCode.Space) || Flute.breath || Input.GetKey(KeyCode.R) && Input.GetKey(KeyCode.O))
             {
 
                 rb.AddForce(transform.up * jumpForce);
@@ -135,7 +135,7 @@ public class PlayerController : MonoBehaviour {
 
    void HitEnemy()
     {
-        if (Input.GetKeyDown(KeyCode.C))
+        if (Input.GetKeyDown(KeyCode.C) || Input.GetKey(KeyCode.R) && Input.GetKeyDown(KeyCode.P))
         {
             Instantiate(ball, new Vector3(this.gameObject.transform.position.x + 2.5f, this.gameObject.transform.position.y, 0), Quaternion.identity);
             Instantiate(mator, new Vector3(this.gameObject.transform.position.x + 2.5f, this.gameObject.transform.position.y, 0), Quaternion.identity);

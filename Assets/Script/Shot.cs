@@ -26,11 +26,11 @@ public class Shot : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
-        if (Input.GetKey(KeyCode.C))
+        if (Input.GetKey(KeyCode.C) || Input.GetKey(KeyCode.R) && Input.GetKey(KeyCode.P))
         {
             Mator();
         }
-        if (Input.GetKeyUp(KeyCode.C))
+        if (Input.GetKeyUp(KeyCode.C) || Input.GetKeyUp(KeyCode.P))
         {
             MoveShot();
         }
