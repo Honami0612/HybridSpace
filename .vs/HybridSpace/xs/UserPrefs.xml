@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{96878E7D-DDE8-71C2-AFD4-7261CEAF8BD8}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/FluteTester.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PlayerController.cs">
     <Files>
-      <File FileName="Assets/Script/PlayerController.cs" Line="83" Column="31" />
+      <File FileName="Assets/Script/PlayerController.cs" Line="100" Column="65" />
       <File FileName="Assets/Script/Shot.cs" />
       <File FileName="Assets/Script/ModeChange.cs" />
       <File FileName="Assets/Script/Enemy.cs" />
       <File FileName="Assets/Script/Door.cs" Line="23" Column="2" />
       <File FileName="Assets/Script/FadeController.cs" />
       <File FileName="Assets/Script/Block.cs" />
-      <File FileName="Assets/Script/FluteTester.cs" Line="7" Column="25" />
-      <File FileName="Assets/Script/Flute.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/FluteTester.cs" Line="78" Column="51" />
+      <File FileName="Assets/Script/Flute.cs" Line="58" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
