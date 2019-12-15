@@ -6,8 +6,8 @@
       <File FileName="Assets/Script/ModeChange.cs" />
       <File FileName="Assets/Script/Enemy.cs" Line="28" Column="42" />
       <File FileName="Assets/Script/Door.cs" />
-      <File FileName="Assets/Script/FadeController.cs" />
-      <File FileName="Assets/Script/Block.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/FadeController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Block.cs" Line="24" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
