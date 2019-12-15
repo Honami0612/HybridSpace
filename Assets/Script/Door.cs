@@ -15,17 +15,15 @@ public class Door : MonoBehaviour {
 
     FadeController fadeController;
 
-	// Use this for initialization
 	void Start () {
         modeChange = GameObject.FindWithTag("Player").GetComponent<ModeChange>();
         fadeController = GameObject.Find("Panel").GetComponent<FadeController>();
         Debug.Log(SceneManager.GetActiveScene().name);
 	}
 	
-	// Update is called once per frame
 	void Update () {
         modeNumber = modeChange.nowNumber;
-        Debug.Log(modeNumber);
+        //Debug.Log(modeNumber);
         //check.text = modeNumber.ToString()+""+doorNumber.ToString();
     }
 
