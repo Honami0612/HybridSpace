@@ -158,6 +158,10 @@ public class PlayerController : MonoBehaviour {
     {
         if (Input.GetKeyDown(KeyCode.C) || Input.GetKey(KeyCode.R) && Input.GetKeyDown(KeyCode.P) || Flute.C && Flute.B_down)
         {
+            //if (transform.localScale.x = 0.3f)
+            //{
+
+            //}
             Instantiate(ball, new Vector3(this.gameObject.transform.position.x + 2.5f, this.gameObject.transform.position.y, 0), Quaternion.identity);
             Instantiate(mator, new Vector3(this.gameObject.transform.position.x + 2.5f, this.gameObject.transform.position.y, 0), Quaternion.identity);
         }
@@ -183,5 +187,5 @@ public class PlayerController : MonoBehaviour {
         }
     }
 
-
+   
 }
