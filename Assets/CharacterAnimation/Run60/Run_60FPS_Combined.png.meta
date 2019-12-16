@@ -1,0 +1,1543 @@
+fileFormatVersion: 2
+guid: d044b6bf92c2e9c489196a4f8a8c7c53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Run_60FPS_Combined_0
+  - first:
+      213: 21300002
+    second: Run_60FPS_Combined_1
+  - first:
+      213: 21300004
+    second: Run_60FPS_Combined_2
+  - first:
+      213: 21300006
+    second: Run_60FPS_Combined_3
+  - first:
+      213: 21300008
+    second: Run_60FPS_Combined_4
+  - first:
+      213: 21300010
+    second: Run_60FPS_Combined_5
+  - first:
+      213: 21300012
+    second: Run_60FPS_Combined_6
+  - first:
+      213: 21300014
+    second: Run_60FPS_Combined_7
+  - first:
+      213: 21300016
+    second: Run_60FPS_Combined_8
+  - first:
+      213: 21300018
+    second: Run_60FPS_Combined_9
+  - first:
+      213: 21300020
+    second: Run_60FPS_Combined_10
+  - first:
+      213: 21300022
+    second: Run_60FPS_Combined_11
+  - first:
+      213: 21300024
+    second: Run_60FPS_Combined_12
+  - first:
+      213: 21300026
+    second: Run_60FPS_Combined_13
+  - first:
+      213: 21300028
+    second: Run_60FPS_Combined_14
+  - first:
+      213: 21300030
+    second: Run_60FPS_Combined_15
+  - first:
+      213: 21300032
+    second: Run_60FPS_Combined_16
+  - first:
+      213: 21300034
+    second: Run_60FPS_Combined_17
+  - first:
+      213: 21300036
+    second: Run_60FPS_Combined_18
+  - first:
+      213: 21300038
+    second: Run_60FPS_Combined_19
+  - first:
+      213: 21300040
+    second: Run_60FPS_Combined_20
+  - first:
+      213: 21300042
+    second: Run_60FPS_Combined_21
+  - first:
+      213: 21300044
+    second: Run_60FPS_Combined_22
+  - first:
+      213: 21300046
+    second: Run_60FPS_Combined_23
+  - first:
+      213: 21300048
+    second: Run_60FPS_Combined_24
+  - first:
+      213: 21300050
+    second: Run_60FPS_Combined_25
+  - first:
+      213: 21300052
+    second: Run_60FPS_Combined_26
+  - first:
+      213: 21300054
+    second: Run_60FPS_Combined_27
+  - first:
+      213: 21300056
+    second: Run_60FPS_Combined_28
+  - first:
+      213: 21300058
+    second: Run_60FPS_Combined_29
+  - first:
+      213: 21300060
+    second: Run_60FPS_Combined_30
+  - first:
+      213: 21300062
+    second: Run_60FPS_Combined_31
+  - first:
+      213: 21300064
+    second: Run_60FPS_Combined_32
+  - first:
+      213: 21300066
+    second: Run_60FPS_Combined_33
+  - first:
+      213: 21300068
+    second: Run_60FPS_Combined_34
+  - first:
+      213: 21300070
+    second: Run_60FPS_Combined_35
+  - first:
+      213: 21300072
+    second: Run_60FPS_Combined_36
+  - first:
+      213: 21300074
+    second: Run_60FPS_Combined_37
+  - first:
+      213: 21300076
+    second: Run_60FPS_Combined_38
+  - first:
+      213: 21300078
+    second: Run_60FPS_Combined_39
+  - first:
+      213: 21300080
+    second: Run_60FPS_Combined_40
+  - first:
+      213: 21300082
+    second: Run_60FPS_Combined_41
+  - first:
+      213: 21300084
+    second: Run_60FPS_Combined_42
+  - first:
+      213: 21300086
+    second: Run_60FPS_Combined_43
+  - first:
+      213: 21300088
+    second: Run_60FPS_Combined_44
+  - first:
+      213: 21300090
+    second: Run_60FPS_Combined_45
+  - first:
+      213: 21300092
+    second: Run_60FPS_Combined_46
+  - first:
+      213: 21300094
+    second: Run_60FPS_Combined_47
+  - first:
+      213: 21300096
+    second: Run_60FPS_Combined_48
+  - first:
+      213: 21300098
+    second: Run_60FPS_Combined_49
+  - first:
+      213: 21300100
+    second: Run_60FPS_Combined_50
+  - first:
+      213: 21300102
+    second: Run_60FPS_Combined_51
+  - first:
+      213: 21300104
+    second: Run_60FPS_Combined_52
+  - first:
+      213: 21300106
+    second: Run_60FPS_Combined_53
+  - first:
+      213: 21300108
+    second: Run_60FPS_Combined_54
+  - first:
+      213: 21300110
+    second: Run_60FPS_Combined_55
+  - first:
+      213: 21300112
+    second: Run_60FPS_Combined_56
+  - first:
+      213: 21300114
+    second: Run_60FPS_Combined_57
+  - first:
+      213: 21300116
+    second: Run_60FPS_Combined_58
+  - first:
+      213: 21300118
+    second: Run_60FPS_Combined_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1574001ff53394d468ee9629247731a7
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_1
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 11200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8ba0496852a434080578b768bd26e5
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_2
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 11200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb971aebef55cb4bb0b0e2ad9b1c20e
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_3
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 11200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76077f775a563dd4db2c03cbf1c5a7ac
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_4
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 11200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67534404dfcc464183653cf63a0c632
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_5
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 11200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69decc463cef17f49ab5243af71ef63b
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_6
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 11200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524d0a0b199a86841b312f2dd771b7ec
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_7
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 11200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f17fb8821ca1d64dad749e30ba834fd
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ad502850d44ee4d91058d5d7a949d0
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 9600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0de89f29fcd5749845f8d3ef553791
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_10
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 9600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759d433cb0874c94e8bb5eb669aeb3a4
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_11
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 9600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50458d1e40cb3c46822e461ebbe64a5
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_12
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 9600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a11b729367aa14d87bf5b657015c30
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_13
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 9600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ab23767fdd09b4b8b5888a9a697f0a
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_14
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 9600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e06af82d5dbeb5449c72885744d6fb8
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_15
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 9600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0f16f00d5a4ba4dbd0483ce7d876e7
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ebb5f283b288246a2d0ec806557878
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_17
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 8000
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134e771153ee4604aa362d5227ff1335
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_18
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 8000
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bc823739138dd49a3f0f6d2b1e8b73
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_19
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 8000
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8f74cee9f4274409087b55f5883207
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_20
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 8000
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aa70cf5a85e684c8181320627d7053
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_21
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 8000
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b21b90a80a76a34099e816ac45a4f93
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_22
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 8000
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57230a64dfdf18643ab61f51a79f5e57
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_23
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 8000
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b11b8d689498f04ea23e992294c9fd6
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6400
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a06d46ad55e6fc4fb24cd00ee38dec2
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_25
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 6400
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e622e5d8916ff4fa3d24c85a8de598
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_26
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 6400
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed821712b4c70d74ab7b83706dca53d3
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_27
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 6400
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24be880a73a23946a470be43c95fd40
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_28
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 6400
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474229a6835a5754aa40cafd1f028cf1
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_29
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 6400
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df1204d086240d4cb183ed8447c3960
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_30
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 6400
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34ecde26e40e7c459d5e27feed6080d
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_31
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 6400
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5274f59b10623439b0b91c4766644c
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03a562cecebc604ba24105ffe22ca6a
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebdc19d61b3f944dbe4722906afe9e8
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_34
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de32164b67eadb645a8c249aaeddb2a2
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_35
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 4800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854c8491f3984c74096f00f8693d8dae
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_36
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 4800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a98a0ae140d07a409339bcdac536617
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_37
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 4800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b906fdbc6b0dd49a0a10c37185973e
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_38
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 4800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3848018e8199745b77bb1796c28dd0
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_39
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 4800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504f32f454ebbd84497cf059efee6838
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11b8ad6c7c5a0046a71fc6ccfa9052b
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_41
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5c9912216f88b4b91a6a588eb04f98
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_42
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee5f34505ac74f4aafc423a2cba7aee
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_43
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da275e997fb0e3b48949eaba48eeacf3
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_44
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 3200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0252b181b9445e4ebe1ee5df0605321
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_45
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 3200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385e38e5ee12dc04389bb9edcc64fb3b
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_46
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 3200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f9fb7a43f88a540be0a823f050c5b4
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_47
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 3200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c42c1efec1a29f46acb262b70b61c49
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cab176384984d4b9b339ef15cec65a
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_49
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebe51b4143c24c4683a80b1f5af7aaf
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_50
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d2178c69add0645b899a6581f37853
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_51
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace3444a590be6b4982674fca8e4cb72
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_52
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6419e3d04ba7b7f41949a0bfc41554b3
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_53
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 1600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dabf6d654896ef44bf10c11134b1471
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_54
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 1600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d968c3daab330c41ae7cfa1124a9b57
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_55
+      rect:
+        serializedVersion: 2
+        x: 12600
+        y: 1600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73694934979d86f4f8ac03d1261d386c
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e4928d99f481f4397f29849be810a3
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_57
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fce0ddee932f348a69ace0b5e13f10
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_58
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532d8a3fbc42c1d4da202d96ad6416f0
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_60FPS_Combined_59
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2baeb0fbaa1a145aec68a3cc623a9d
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ffbcce70c54268248b01d28957c83ec2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
