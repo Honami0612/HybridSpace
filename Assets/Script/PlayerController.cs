@@ -5,6 +5,8 @@ using UnityEngine.UI;
 using System.IO.Ports;
 
 public class PlayerController : MonoBehaviour {
+    //[SerializeField]
+    //Text checkText;
 
     Rigidbody2D rb;
     
@@ -29,18 +31,22 @@ public class PlayerController : MonoBehaviour {
     [SerializeField]
     GameObject mator;
 
+    Animator characterAnimation;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        characterAnimation = GetComponent<Animator>();
     }
 
     void Update()
     {
-        //checkText.text = jumpCount.ToString() + " state" + state;
+        
 
         GetInputKey();        
         ChangeState();
         HitEnemy();
+        ChangeAnimation();
 
     }
 
@@ -69,22 +75,25 @@ public class PlayerController : MonoBehaviour {
         {
             if (key != 0)
             {
-                state = "RUN";
+                
+                    state = "Run";
+              
             }
             else
             {
-                state = "IDLE";
+                
+                state = "Idle";
             }
         }
         else
         {
             if (rb.velocity.y > 0)
             {
-                state = "JUMP";
+                state = "Jump";
             }
             else if (rb.velocity.y < 0)
             {
-                state = "FALL";
+                state = "Fall";
             }
         }
 
@@ -99,7 +108,7 @@ public class PlayerController : MonoBehaviour {
             //jump
             if (Input.GetKeyDown(KeyCode.Space) || Flute.C && Flute.A_down || Input.GetKey(KeyCode.R) && Input.GetKeyDown(KeyCode.O))
             {
-
+                state = "Idle";
                 rb.AddForce(transform.up * jumpForce);
                 jumpCount++;
                 isGround = false;
@@ -115,23 +124,34 @@ public class PlayerController : MonoBehaviour {
                     jumpCount++;
                 }
             }
-            if (state == "FALL")
+            if (state == "Fall")
             {
                 rb.AddForce(transform.up * -100f);
             }
         }
         
         rb.velocity = new Vector2(key * runSpeed, rb.velocity.y);
-        //float speedX = Mathf.Abs(rb.velocity.x);
-        //if (speedX < runThreshold)
-        //{
-        //    rb.AddForce(transform.right * key * runForce * stateEffect);
-        //}
-        //else
-        //{
-        //    transform.position += new Vector3(runSpeed * Time.deltaTime * key * stateEffect, 0, 0);
-        //}
+        
 
+    }
+
+    void ChangeAnimation()
+    {
+        switch (state)
+        {
+            case "Idle":
+                characterAnimation.SetBool("Idle", true);
+                characterAnimation.SetBool("Run", false);
+               
+                break;
+            case "Run":
+                characterAnimation.SetBool("Idle", false);
+                characterAnimation.SetBool("Run", true);
+                transform.localScale = new Vector3(key*0.3f, 0.3f, 0.3f);
+
+                
+                break;
+        }
     }
 
    void HitEnemy()
