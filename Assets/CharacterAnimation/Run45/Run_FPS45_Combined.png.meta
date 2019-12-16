@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 7d88c48d411a36a49a03b71b38e88cc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Run_FPS45_Combined_0
+  - first:
+      213: 21300002
+    second: Run_FPS45_Combined_1
+  - first:
+      213: 21300004
+    second: Run_FPS45_Combined_2
+  - first:
+      213: 21300006
+    second: Run_FPS45_Combined_3
+  - first:
+      213: 21300008
+    second: Run_FPS45_Combined_4
+  - first:
+      213: 21300010
+    second: Run_FPS45_Combined_5
+  - first:
+      213: 21300012
+    second: Run_FPS45_Combined_6
+  - first:
+      213: 21300014
+    second: Run_FPS45_Combined_7
+  - first:
+      213: 21300016
+    second: Run_FPS45_Combined_8
+  - first:
+      213: 21300018
+    second: Run_FPS45_Combined_9
+  - first:
+      213: 21300020
+    second: Run_FPS45_Combined_10
+  - first:
+      213: 21300022
+    second: Run_FPS45_Combined_11
+  - first:
+      213: 21300024
+    second: Run_FPS45_Combined_12
+  - first:
+      213: 21300026
+    second: Run_FPS45_Combined_13
+  - first:
+      213: 21300028
+    second: Run_FPS45_Combined_14
+  - first:
+      213: 21300030
+    second: Run_FPS45_Combined_15
+  - first:
+      213: 21300032
+    second: Run_FPS45_Combined_16
+  - first:
+      213: 21300034
+    second: Run_FPS45_Combined_17
+  - first:
+      213: 21300036
+    second: Run_FPS45_Combined_18
+  - first:
+      213: 21300038
+    second: Run_FPS45_Combined_19
+  - first:
+      213: 21300040
+    second: Run_FPS45_Combined_20
+  - first:
+      213: 21300042
+    second: Run_FPS45_Combined_21
+  - first:
+      213: 21300044
+    second: Run_FPS45_Combined_22
+  - first:
+      213: 21300046
+    second: Run_FPS45_Combined_23
+  - first:
+      213: 21300048
+    second: Run_FPS45_Combined_24
+  - first:
+      213: 21300050
+    second: Run_FPS45_Combined_25
+  - first:
+      213: 21300052
+    second: Run_FPS45_Combined_26
+  - first:
+      213: 21300054
+    second: Run_FPS45_Combined_27
+  - first:
+      213: 21300056
+    second: Run_FPS45_Combined_28
+  - first:
+      213: 21300058
+    second: Run_FPS45_Combined_29
+  - first:
+      213: 21300060
+    second: Run_FPS45_Combined_30
+  - first:
+      213: 21300062
+    second: Run_FPS45_Combined_31
+  - first:
+      213: 21300064
+    second: Run_FPS45_Combined_32
+  - first:
+      213: 21300066
+    second: Run_FPS45_Combined_33
+  - first:
+      213: 21300068
+    second: Run_FPS45_Combined_34
+  - first:
+      213: 21300070
+    second: Run_FPS45_Combined_35
+  - first:
+      213: 21300072
+    second: Run_FPS45_Combined_36
+  - first:
+      213: 21300074
+    second: Run_FPS45_Combined_37
+  - first:
+      213: 21300076
+    second: Run_FPS45_Combined_38
+  - first:
+      213: 21300078
+    second: Run_FPS45_Combined_39
+  - first:
+      213: 21300080
+    second: Run_FPS45_Combined_40
+  - first:
+      213: 21300082
+    second: Run_FPS45_Combined_41
+  - first:
+      213: 21300084
+    second: Run_FPS45_Combined_42
+  - first:
+      213: 21300086
+    second: Run_FPS45_Combined_43
+  - first:
+      213: 21300088
+    second: Run_FPS45_Combined_44
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cff43c0d87304b47a08b1f271ad15ec
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_1
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 12800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3511b67367db1a4abd4f038a0c6c84c
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_2
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 12800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbe932feb99987488c385641df41938
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_3
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 12800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d34671029ef1343995b130cf1c362b
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_4
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 12800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5ea16fdf9dbe74bbfaebaa286b417c
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90815b2c7b34d194a992d2da9ef12e5c
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 11200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5debbc212650fa4f91d256de433f6f1
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_7
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 11200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26c2bfca71631f4a977847661f5a9f8
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_8
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 11200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b74a7dd1acfd843984022175ab9ef5
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_9
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 11200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4dcb2961d49c0459f486b25ec024ba
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d94f5496a16bb44ab62d84d2e9b55c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_11
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 9600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb805195a48c80a4a83943212f88994d
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_12
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 9600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bef52600c945e342bc0902e12eb0d89
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_13
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 9600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7b9edc5f11b924b959692c6ab9a15c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_14
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 9600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ff39b227884a44094c2dff7bacfc3d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e22c1133a454e146a00088c58491970
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_16
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 8000
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0814d40f9bd6e3045bf4fd0e5c1ee3aa
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_17
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 8000
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e49c5ed4aa95343ae44bc583561ab6
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_18
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 8000
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb786fe56b75c8c46a62256981698f27
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_19
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 8000
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd4b8aa26b37443aa732445d3738c4
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6400
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5561b6488437542b55ba9774208ab0
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_21
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 6400
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33527e72dd09834bab530ab8eea897e
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_22
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 6400
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b581a111d3050a41a212a0d8e599489
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_23
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 6400
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5370b75ba5a1040a6f4fdf168f5a9b
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_24
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 6400
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b01b2be35764684e94ddd5ab8879cb1
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8dfc3972f6d1441a294799131b9011
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_26
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ae7f7900d1062458e76316775b53f9
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_27
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744163fbd4a248349b5ea9f6670e635d
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_28
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 4800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c002c08b936874d80d6f239137fa81
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_29
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 4800
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e083123c29bde2d43afcb016d08c8a99
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10310d9405a5f9c48837f9cd159ba7a2
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_31
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e82edf5565a5984f9f44040a03f96d7
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_32
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f7ab378c257304e84b599e205cd8ac
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_33
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44cfcb193cc2ba46952519c5ca2abe0
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_34
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 3200
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4c98bcf7ade784492eceeeabaa556d
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f93d75685e9af46b9b61220e91c2fe
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_36
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1053bede22a1b9841872c5b5b2e95949
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_37
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6088e0c49759c64f8dff5aee5d95c82
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_38
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dcfcb77e2575d4ebfcadd2e04a41be
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_39
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1600
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7407c7bbe478433468be5bf45ecde974
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4227219f49dff45ba2c1c3e6071aab
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_41
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6a78cc813edc241b5637ec0bae5f1d
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_42
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a952bf2e5dc4da4c866d482bcff3638
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_43
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eebb90e912003e4081971b1f6984d40
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_FPS45_Combined_44
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 1800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a932d7ba1a29a49a8989ed0b7b2d79
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b4cf7729f85abcf45b205255abee7aaa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
