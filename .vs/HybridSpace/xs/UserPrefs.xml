@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{96878E7D-DDE8-71C2-AFD4-7261CEAF8BD8}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CharacterAnimation/Playertest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/ModeChange.cs">
     <Files>
       <File FileName="Assets/Script/PlayerController.cs" Line="100" Column="65" />
       <File FileName="Assets/Script/Shot.cs" />
-      <File FileName="Assets/Script/ModeChange.cs" />
+      <File FileName="Assets/Script/ModeChange.cs" Line="27" Column="1" />
       <File FileName="Assets/Script/Enemy.cs" />
       <File FileName="Assets/Script/Door.cs" />
       <File FileName="Assets/Script/FadeController.cs" />
@@ -17,10 +17,10 @@
         <State name="__root__">
           <Node name="HybridSpace" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="CharacterAnimation" expanded="True">
-                <Node name="Playertest.cs" selected="True" />
+              <Node name="CharacterAnimation" expanded="True" />
+              <Node name="Script" expanded="True">
+                <Node name="ModeChange.cs" selected="True" />
               </Node>
-              <Node name="Script" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -29,7 +29,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d114f208-ae7c-4880-b134-d4e589c075b5" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d9e1a7f7-6dcd-45bf-b59f-70a4d916ae03" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

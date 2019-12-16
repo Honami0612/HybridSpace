@@ -24,7 +24,7 @@ public class ModeChange : MonoBehaviour {
 	void Start () {
         spriteRenderer = GetComponent<SpriteRenderer>();
         lifeText.text = "Life:" + playerLife.ToString();
-        check.text = modeNumber.ToString();
+        check.text = "0:Nomal"+" 1:Fire"+ " 2:Thunder\n" + "nowMode:"+modeNumber.ToString();
 
     }
 
@@ -56,7 +56,7 @@ public class ModeChange : MonoBehaviour {
             }
 
         }
-        check.text = modeNumber.ToString();
+        check.text = "0:Nomal" + " 1:Fire" + " 2:Thunder\n" + "nowMode:" + modeNumber.ToString();
     }
 
     void ChangeModeState()
