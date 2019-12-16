@@ -37,9 +37,9 @@ public class ModeChange : MonoBehaviour {
 
     void Mode()
     {
-        if (Input.GetKey(KeyCode.W) && Input.GetKeyDown(KeyCode.U)) modeNumber = 0; spriteRenderer.sprite = changeMode[modeNumber];
-        if (Input.GetKey(KeyCode.W) && Input.GetKeyDown(KeyCode.I)) modeNumber = 1; spriteRenderer.sprite = changeMode[modeNumber];
-        if (Input.GetKey(KeyCode.W) && Input.GetKeyDown(KeyCode.O)) modeNumber = 2; spriteRenderer.sprite = changeMode[modeNumber];
+        if (Input.GetKey(KeyCode.W) && Input.GetKeyDown(KeyCode.U) || Flute.E && Flute.F_down) modeNumber = 0; spriteRenderer.sprite = changeMode[modeNumber];
+        if (Input.GetKey(KeyCode.W) && Input.GetKeyDown(KeyCode.I) || Flute.E && Flute.G_down) modeNumber = 1; spriteRenderer.sprite = changeMode[modeNumber];
+        if (Input.GetKey(KeyCode.W) && Input.GetKeyDown(KeyCode.O) || Flute.E && Flute.A_down) modeNumber = 2; spriteRenderer.sprite = changeMode[modeNumber];
 
         if (Input.GetKeyDown(KeyCode.S))
         {
