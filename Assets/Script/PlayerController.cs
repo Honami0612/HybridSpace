@@ -52,9 +52,9 @@ public class PlayerController : MonoBehaviour {
     void GetInputKey()
     {
             key = 0;
-        if (Input.GetKey(KeyCode.D) || Flute.C)
+        if (Input.GetKey(KeyCode.D) || Flute.C && Flute.G || Input.GetKey(KeyCode.R) && Input.GetKey(KeyCode.I))
             key = 1;
-        if (Input.GetKey(KeyCode.A) || Flute.D)
+        if (Input.GetKey(KeyCode.A) || Flute.C && Flute.F || Input.GetKey(KeyCode.R) && Input.GetKey(KeyCode.U))
             key = -1;
     }
 
@@ -97,7 +97,7 @@ public class PlayerController : MonoBehaviour {
         if (isGround)
         {
             //jump
-            if (Input.GetKeyDown(KeyCode.Space) || Flute.breath)
+            if (Input.GetKeyDown(KeyCode.Space) || Flute.C && Flute.A_down || Input.GetKey(KeyCode.R) && Input.GetKeyDown(KeyCode.O))
             {
 
                 rb.AddForce(transform.up * jumpForce);
@@ -121,21 +121,22 @@ public class PlayerController : MonoBehaviour {
             }
         }
         
-        float speedX = Mathf.Abs(rb.velocity.x);
-        if (speedX < runThreshold)
-        {
-            rb.AddForce(transform.right * key * runForce * stateEffect); 
-        }
-        else
-        {
-            transform.position += new Vector3(runSpeed * Time.deltaTime * key * stateEffect, 0, 0);
-        }
+        rb.velocity = new Vector2(key * runSpeed, rb.velocity.y);
+        //float speedX = Mathf.Abs(rb.velocity.x);
+        //if (speedX < runThreshold)
+        //{
+        //    rb.AddForce(transform.right * key * runForce * stateEffect);
+        //}
+        //else
+        //{
+        //    transform.position += new Vector3(runSpeed * Time.deltaTime * key * stateEffect, 0, 0);
+        //}
 
     }
 
    void HitEnemy()
     {
-        if (Input.GetKeyDown(KeyCode.C))
+        if (Input.GetKeyDown(KeyCode.C) || Input.GetKey(KeyCode.R) && Input.GetKeyDown(KeyCode.P) || Flute.C && Flute.B_down)
         {
             Instantiate(ball, new Vector3(this.gameObject.transform.position.x + 2.5f, this.gameObject.transform.position.y, 0), Quaternion.identity);
             Instantiate(mator, new Vector3(this.gameObject.transform.position.x + 2.5f, this.gameObject.transform.position.y, 0), Quaternion.identity);

@@ -12,7 +12,7 @@ public class ModeChange : MonoBehaviour {
 
     [SerializeField]
     Sprite[] changeMode;
-    public int modeNumber = 1;
+    public int modeNumber = 0;
 
     [SerializeField]
     Text lifeText;
@@ -21,7 +21,6 @@ public class ModeChange : MonoBehaviour {
     string modeState;
     
 
-	// Use this for initialization
 	void Start () {
         spriteRenderer = GetComponent<SpriteRenderer>();
         lifeText.text = "Life:" + playerLife.ToString();
@@ -29,7 +28,6 @@ public class ModeChange : MonoBehaviour {
 
     }
 
-    // Update is called once per frame
     void Update () {
 
         Mode();
@@ -39,20 +37,24 @@ public class ModeChange : MonoBehaviour {
 
     void Mode()
     {
+        if (Input.GetKey(KeyCode.W) && Input.GetKeyDown(KeyCode.U) || Flute.E && Flute.F_down) modeNumber = 0; spriteRenderer.sprite = changeMode[modeNumber];
+        if (Input.GetKey(KeyCode.W) && Input.GetKeyDown(KeyCode.I) || Flute.E && Flute.G_down) modeNumber = 1; spriteRenderer.sprite = changeMode[modeNumber];
+        if (Input.GetKey(KeyCode.W) && Input.GetKeyDown(KeyCode.O) || Flute.E && Flute.A_down) modeNumber = 2; spriteRenderer.sprite = changeMode[modeNumber];
+
         if (Input.GetKeyDown(KeyCode.S))
         {
+            modeNumber++;
+
             if (modeNumber < changeMode.Length)
             {
                 spriteRenderer.sprite = changeMode[modeNumber];
-                modeNumber++;
             }
             else
             {
                 modeNumber = 0;
                 spriteRenderer.sprite = changeMode[modeNumber];
-                modeNumber++;
             }
-          
+
         }
         check.text = modeNumber.ToString();
     }
@@ -61,13 +63,13 @@ public class ModeChange : MonoBehaviour {
     {
         switch (modeNumber)
         {
-            case 1:
+            case 0:
                 modeState = "Normal";
                 break;
-            case 2:
+            case 1:
                 modeState = "Fire";
                 break;
-            case 3:
+            case 2:
                 modeState = "Thunder";
                 break;
         }

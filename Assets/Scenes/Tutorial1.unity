@@ -316,7 +316,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75b40f57dfad14a5590b761d10e69d74, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  portName: /dev/cu.usbmodem1411
+  portName: /dev/cu.usbmodem1431
 --- !u!4 &99565725
 Transform:
   m_ObjectHideFlags: 0
@@ -1494,7 +1494,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jumpForce: 390
   runForce: 250
-  runSpeed: 2
+  runSpeed: 7
   ball: {fileID: 1708571605364284, guid: 4dd489f4db9b44150a3ac3a4f4e9a9b6, type: 3}
   mator: {fileID: 1092434276025862, guid: 91fd9c2e67480417d8bd10d515738427, type: 3}
 --- !u!114 &1198270344
@@ -1514,7 +1514,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 8818f936808aa47f6bd726c249b61ed6, type: 3}
   - {fileID: 21300000, guid: 081651051ec9e42dfb00db66735a8f68, type: 3}
   - {fileID: 21300000, guid: 9c0229e97bbaf41fbb42e52e6621f0e2, type: 3}
-  modeNumber: 1
+  modeNumber: 0
   lifeText: {fileID: 583281304}
   playerLife: 100
 --- !u!1 &1409677861
