@@ -58,9 +58,14 @@ public class PlayerController : MonoBehaviour {
     void GetInputKey()
     {
             key = 0;
-        if (Input.GetKey(KeyCode.D) || Flute.C && Flute.G || Input.GetKey(KeyCode.R) && Input.GetKey(KeyCode.I))
+        if (Input.GetKey(KeyCode.D) || Flute.B && Flute.E)
+        {
+            //print("heyYo");
             key = 1;
-        if (Input.GetKey(KeyCode.A) || Flute.C && Flute.F || Input.GetKey(KeyCode.R) && Input.GetKey(KeyCode.U))
+
+        }
+            
+        if (Input.GetKey(KeyCode.A) || Flute.B && Flute.F)
             key = -1;
     }
 
@@ -106,7 +111,7 @@ public class PlayerController : MonoBehaviour {
         if (isGround)
         {
             //jump
-            if (Input.GetKeyDown(KeyCode.Space) || Flute.C && Flute.A_down || Input.GetKey(KeyCode.R) && Input.GetKeyDown(KeyCode.O))
+            if (Input.GetKeyDown(KeyCode.Space) || Flute.B && Flute.D_down)
             {
                 state = "Idle";
                 rb.AddForce(transform.up * jumpForce);
@@ -131,7 +136,9 @@ public class PlayerController : MonoBehaviour {
         }
         
         rb.velocity = new Vector2(key * runSpeed, rb.velocity.y);
-        
+        //Debug.Log("Walking like shit");
+        //Debug.Log(key + "<key runspeed>" + runSpeed);
+        //Debug.Log($"key = {key}　Runspeed = {runSpeed}");
 
     }
 
@@ -156,7 +163,7 @@ public class PlayerController : MonoBehaviour {
 
    void HitEnemy()
     {
-        if (Input.GetKeyDown(KeyCode.C) || Input.GetKey(KeyCode.R) && Input.GetKeyDown(KeyCode.P) || Flute.C && Flute.B_down)
+        if (Input.GetKeyDown(KeyCode.C)|| Flute.B && Flute.C_down)
         {
             //if (transform.localScale.x = 0.3f)
             //{
