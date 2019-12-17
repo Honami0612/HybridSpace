@@ -59,7 +59,12 @@ public class PlayerController : MonoBehaviour {
     {
             key = 0;
         if (Input.GetKey(KeyCode.D) || Flute.B && Flute.E)
+        {
+            //print("heyYo");
             key = 1;
+
+        }
+            
         if (Input.GetKey(KeyCode.A) || Flute.B && Flute.F)
             key = -1;
     }
@@ -131,7 +136,9 @@ public class PlayerController : MonoBehaviour {
         }
         
         rb.velocity = new Vector2(key * runSpeed, rb.velocity.y);
-        
+        //Debug.Log("Walking like shit");
+        //Debug.Log(key + "<key runspeed>" + runSpeed);
+        //Debug.Log($"key = {key}　Runspeed = {runSpeed}");
 
     }
 

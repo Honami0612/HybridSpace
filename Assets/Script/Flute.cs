@@ -8,6 +8,7 @@ public class Flute : MonoBehaviour
 {
     public string portName = "/dev/cu.usbmodem1431";
     SerialPort sp;
+    public bool useFlute;
 
     public static bool breath = false;
     public static bool C = false;
@@ -36,6 +37,21 @@ public class Flute : MonoBehaviour
     public static bool A_up = false;
     public static bool B_up = false;
 
+    public AudioSource audioSourceC;
+    public AudioSource audioSourceD;
+    public AudioSource audioSourceE;
+    public AudioSource audioSourceF;
+    public AudioSource audioSourceG;
+    public AudioSource audioSourceA;
+    public AudioSource audioSourceB;
+
+    public AudioClip soundC;
+    public AudioClip soundD;
+    public AudioClip soundE;
+    public AudioClip soundF;
+    public AudioClip soundG;
+    public AudioClip soundA;
+    public AudioClip soundB;
 
 
 
@@ -49,8 +65,17 @@ public class Flute : MonoBehaviour
     void Update()
     {
         FalsifyAllUpDown();
-        UpdateFluteStatus();
-        UpdateFluteStatusByKey();
+
+        if (useFlute)
+        {
+            UpdateFluteStatus();
+        }
+        else
+        {
+            UpdateFluteStatusByKey();
+        }
+        
+        CheckAudio();
     }
 
 
@@ -89,21 +114,21 @@ public class Flute : MonoBehaviour
 
                 switch (bite)
                 {
-                    case 1: C = true; C_down = true; print("C"); break;
-                    case 2: D = true; D_down = true; print("D"); break;
-                    case 3: E = true; E_down = true; print("E"); break;
+                    case 7: C = true; C_down = true; print("C"); break;
+                    case 6: D = true; D_down = true; print("D"); break;
+                    case 5: E = true; E_down = true; print("E"); break;
                     case 4: F = true; F_down = true; print("F"); break;
-                    case 5: G = true; G_down = true; print("G"); break;
-                    case 6: A = true; A_down = true; print("A"); break;
-                    case 7: B = true; B_down = true; print("B"); break;
+                    case 3: G = true; G_down = true; print("G"); break;
+                    case 2: A = true; A_down = true; print("A"); break;
+                    case 1: B = true; B_down = true; print("B"); break;
 
-                    case 8: C = false; C_up = true; print("release C"); break;
-                    case 9: D = false; D_up = true; print("release D"); break;
-                    case 10: E = false; E_up = true; print("release E"); break;
+                    case 14: C = false; C_up = true; print("release C"); break;
+                    case 13: D = false; D_up = true; print("release D"); break;
+                    case 12: E = false; E_up = true; print("release E"); break;
                     case 11: F = false; F_up = true; print("release F"); break;
-                    case 12: G = false; G_up = true; print("release G"); break;
-                    case 13: A = false; A_up = true; print("release A"); break;
-                    case 14: B = false; B_up = true; print("release B"); break;
+                    case 10: G = false; G_up = true; print("release G"); break;
+                    case 9: A = false; A_up = true; print("release A"); break;
+                    case 8: B = false; B_up = true; print("release B"); break;
 
                     case 15: breath = true; print("Breath"); break;
                     case 16: breath = false; print("stop breathing"); break;
@@ -146,6 +171,27 @@ public class Flute : MonoBehaviour
         G_up = Input.GetKeyUp(KeyCode.W);
         A_up = Input.GetKeyUp(KeyCode.E);
         B_up = Input.GetKeyUp(KeyCode.R);
+    }
+
+
+
+    void CheckAudio()
+    {
+        if (C_down) audioSourceC.PlayOneShot(soundC);
+        if (D_down) audioSourceD.PlayOneShot(soundD);
+        if (E_down) audioSourceE.PlayOneShot(soundE);
+        if (F_down) audioSourceF.PlayOneShot(soundF);
+        if (G_down) audioSourceG.PlayOneShot(soundG);
+        if (A_down) audioSourceA.PlayOneShot(soundA);
+        if (B_down) audioSourceB.PlayOneShot(soundB);
+
+        if (C_up) audioSourceC.Stop();
+        if (D_up) audioSourceD.Stop();
+        if (E_up) audioSourceE.Stop();
+        if (F_up) audioSourceF.Stop();
+        if (G_up) audioSourceG.Stop();
+        if (A_up) audioSourceA.Stop();
+        if (B_up) audioSourceB.Stop();
     }
 
 
