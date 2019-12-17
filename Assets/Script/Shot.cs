@@ -5,7 +5,8 @@ using UnityEngine.UI;
 
 public class Shot : MonoBehaviour {
 
-    
+    PlayerController playerController;
+    Transform playerObject;
 
     private GameObject mator;
     bool changeRote;
@@ -18,8 +19,12 @@ public class Shot : MonoBehaviour {
 
     Rigidbody2D rb;
 
+    int key;
+
 	// Use this for initialization
 	void Start () {
+        playerController = GameObject.FindWithTag("Player").GetComponent<PlayerController>();
+        playerObject = GameObject.FindWithTag("Player").GetComponent<Transform>();
         this.rb = GetComponent<Rigidbody2D>();
         mator = GameObject.Find("arrow(Clone)");
     }
@@ -59,16 +64,18 @@ public class Shot : MonoBehaviour {
         }
 
         mator.transform.Rotate(0, 0, rota);
-        
+       
         angle = mator.transform.eulerAngles.z;
         rad = angle * Mathf.Deg2Rad;
         addForce_x = Mathf.Cos(rad) * 1500f;
         addForce_y = Mathf.Sin(rad) * 1500f;
+        
 
     }
 
     void MoveShot()
     {
+        
         rb.bodyType = RigidbodyType2D.Dynamic;
         this.rb.AddForce(new Vector2(addForce_x, addForce_y));
         Destroy(mator);

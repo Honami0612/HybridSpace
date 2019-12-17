@@ -49,11 +49,12 @@ public class Door : MonoBehaviour {
         yield return new WaitForSeconds(1.5f);
         if (SceneManager.GetActiveScene().name == "Tutorial1")
         {
+            Debug.Log("GameStart");
             SceneManager.LoadScene("Tutorial2");
         }else if (SceneManager.GetActiveScene().name == "Tutorial2")
         {
             SceneManager.LoadScene("Tutorial1");
-            Debug.Log("GameStart");
+            
             //GameStart
         }
         

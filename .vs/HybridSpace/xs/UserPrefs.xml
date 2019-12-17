@@ -1,16 +1,16 @@
 ﻿<Properties StartupConfiguration="{96878E7D-DDE8-71C2-AFD4-7261CEAF8BD8}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PlayerController.cs">
     <Files>
-      <File FileName="Assets/Script/PlayerController.cs" Line="89" Column="10" />
-      <File FileName="Assets/Script/Shot.cs" />
+      <File FileName="Assets/Script/PlayerController.cs" Line="162" Column="16" />
+      <File FileName="Assets/Script/Shot.cs" Line="27" Column="83" />
       <File FileName="Assets/Script/ModeChange.cs" Line="59" Column="98" />
-      <File FileName="Assets/Script/Enemy.cs" />
-      <File FileName="Assets/Script/Door.cs" Line="20" Column="1" />
+      <File FileName="Assets/Script/Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Door.cs" Line="52" Column="36" />
       <File FileName="Assets/Script/FadeController.cs" />
       <File FileName="Assets/Script/Block.cs" />
       <File FileName="Assets/Script/FluteTester.cs" />
       <File FileName="Assets/Script/Flute.cs" />
-      <File FileName="Assets/CharacterAnimation/Playertest.cs" Line="35" Column="28" />
+      <File FileName="Assets/CharacterAnimation/Playertest.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -29,7 +29,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d9e1a7f7-6dcd-45bf-b59f-70a4d916ae03" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d125e044-f4a4-4fa6-837d-0d5aadd260a2" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
