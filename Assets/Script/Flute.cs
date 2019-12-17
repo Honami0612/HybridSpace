@@ -36,6 +36,9 @@ public class Flute : MonoBehaviour
     public static bool A_up = false;
     public static bool B_up = false;
 
+
+
+
     void Start()
     {
         sp = new SerialPort(portName, 9600);
@@ -44,6 +47,16 @@ public class Flute : MonoBehaviour
     }
 
     void Update()
+    {
+        FalsifyAllUpDown();
+        UpdateFluteStatus();
+        UpdateFluteStatusByKey();
+    }
+
+
+
+
+    void FalsifyAllUpDown()
     {
         C_down = false;
         D_down = false;
@@ -60,7 +73,13 @@ public class Flute : MonoBehaviour
         G_up = false;
         A_up = false;
         B_up = false;
+    }
 
+
+
+
+    void UpdateFluteStatus()
+    {
         if (sp.IsOpen)
         {
             try
@@ -97,6 +116,39 @@ public class Flute : MonoBehaviour
                 //print("ReadByte error");
             }
         }
-
     }
+
+
+
+
+    void UpdateFluteStatusByKey()
+    {
+        C = Input.GetKey(KeyCode.P);
+        D = Input.GetKey(KeyCode.O);
+        E = Input.GetKey(KeyCode.I);
+        F = Input.GetKey(KeyCode.U);
+        G = Input.GetKey(KeyCode.W);
+        A = Input.GetKey(KeyCode.E);
+        B = Input.GetKey(KeyCode.R);
+
+        C_down = Input.GetKeyDown(KeyCode.P);
+        D_down = Input.GetKeyDown(KeyCode.O);
+        E_down = Input.GetKeyDown(KeyCode.I);
+        F_down = Input.GetKeyDown(KeyCode.U);
+        G_down = Input.GetKeyDown(KeyCode.W);
+        A_down = Input.GetKeyDown(KeyCode.E);
+        B_down = Input.GetKeyDown(KeyCode.R);
+
+        C_up = Input.GetKeyUp(KeyCode.P);
+        D_up = Input.GetKeyUp(KeyCode.O);
+        E_up = Input.GetKeyUp(KeyCode.I);
+        F_up = Input.GetKeyUp(KeyCode.U);
+        G_up = Input.GetKeyUp(KeyCode.W);
+        A_up = Input.GetKeyUp(KeyCode.E);
+        B_up = Input.GetKeyUp(KeyCode.R);
+    }
+
+
+
+
 }
