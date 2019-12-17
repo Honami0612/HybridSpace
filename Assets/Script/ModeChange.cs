@@ -19,12 +19,15 @@ public class ModeChange : MonoBehaviour {
     public int playerLife;
 
     string modeState;
+
+    Enemy enemyScript;
     
 
 	void Start () {
         spriteRenderer = GetComponent<SpriteRenderer>();
         lifeText.text = "Life:" + playerLife.ToString();
         check.text = "0:Nomal"+" 1:Fire"+ " 2:Thunder\n" + "nowMode:"+modeNumber.ToString();
+        enemyScript = GameObject.FindWithTag("Enemy").GetComponent<Enemy>();
 
     }
 
@@ -80,8 +83,10 @@ public class ModeChange : MonoBehaviour {
     {
         if (collision.gameObject.tag == "Enemy")
         {
+            enemyScript.state = "Attack";
             playerLife -= 20;
             lifeText.text = "Life:"+playerLife.ToString();
+            StartCoroutine(EnemyMode());
         }
     }
 
@@ -91,7 +96,11 @@ public class ModeChange : MonoBehaviour {
         set { modeNumber = value; }
     }
 
-    
+    IEnumerator EnemyMode()
+    {
+        yield return new WaitForSeconds(0.5f);
+        enemyScript.state = "Idle";
+    }
 
 
 }
