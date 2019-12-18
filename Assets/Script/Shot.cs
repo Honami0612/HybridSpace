@@ -31,11 +31,11 @@ public class Shot : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
-        if (Input.GetKey(KeyCode.C)|| Flute.B && Flute.C)
+        if (Input.GetKey(KeyCode.C)|| Flute.C && Flute.B)
         {
             Mator();
         }
-        if (Input.GetKeyUp(KeyCode.C)|| Flute.C_up)
+        if (Input.GetKeyUp(KeyCode.C)|| Flute.B_up)
         {
             MoveShot();
         }

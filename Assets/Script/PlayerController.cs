@@ -31,6 +31,12 @@ public class PlayerController : MonoBehaviour {
     [SerializeField]
     GameObject mator;
 
+	public float rushSpeed;
+    public float rushDuration;
+	private float rushTimer;
+    private int direction = 1;
+	public float highJumpForce;
+
     Animator characterAnimation;
 
     void Start()
@@ -57,17 +63,25 @@ public class PlayerController : MonoBehaviour {
 
     void GetInputKey()
     {
-            key = 0;
-        if (Input.GetKey(KeyCode.D) || Flute.B && Flute.E)
-        {
-            //print("heyYo");
-            key = 1;
+		if (Input.GetKey(KeyCode.D) || Flute.C && Flute.G) { key = 1; ChangeDirection(1); }
+		if (Input.GetKey(KeyCode.A) || Flute.C && Flute.F) { key = -1; ChangeDirection(-1); }
+		if (Flute.F_up && key != 1 || Flute.G_up && key != -1) key = 0;
 
-        }
-            
-        if (Input.GetKey(KeyCode.A) || Flute.B && Flute.F)
-            key = -1;
-    }
+		if (Flute.D && Flute.F_down || Flute.D && Flute.G_down)
+		{
+			ChangeDirection(-1);
+			rushTimer = rushDuration;
+			rb.velocity = new Vector2(direction * rushSpeed, rb.velocity.y);
+		}
+
+		if (Flute.D && Flute.G_down)
+		{
+			ChangeDirection(1);
+			rushTimer = rushDuration;
+			rb.velocity = new Vector2(direction * rushSpeed, rb.velocity.y);
+		}
+
+	}
 
     void ChangeState()
     {
@@ -111,34 +125,47 @@ public class PlayerController : MonoBehaviour {
         if (isGround)
         {
             //jump
-            if (Input.GetKeyDown(KeyCode.Space) || Flute.B && Flute.D_down)
+            if (Input.GetKeyDown(KeyCode.Space) || Flute.C && Flute.A_down)
             {
-                state = "Idle";
-                rb.AddForce(transform.up * jumpForce);
+				//state = "Idle";
+				rb.velocity = new Vector2(rb.velocity.x, 0);
+				rb.AddForce(transform.up * jumpForce);
                 jumpCount++;
-                isGround = false;
-              }
-        }
-        if (!isGround)
+            }
+
+            //High jump
+			else if (Flute.D && Flute.A_down)
+			{
+				rb.velocity = new Vector2(rb.velocity.x, 0);
+				rb.AddForce(transform.up * highJumpForce);
+				jumpCount++;
+			}
+		}
+        else
         {
-            if (Input.GetKeyDown(KeyCode.Space))
+            if (Input.GetKeyDown(KeyCode.Space) || Flute.C && Flute.A_down)
             {
                 if (jumpCount <1)
                 {
+					rb.velocity = new Vector2(rb.velocity.x, 0);
                     rb.AddForce(transform.up * jumpForce);
                     jumpCount++;
                 }
             }
-            if (state == "Fall")
-            {
-                rb.AddForce(transform.up * -100f);
-            }
+            //if (state == "Fall")
+            //{
+            //    rb.AddForce(transform.up * -100f);
+            //}
         }
-        
-        rb.velocity = new Vector2(key * runSpeed, rb.velocity.y);
-        //Debug.Log("Walking like shit");
-        //Debug.Log(key + "<key runspeed>" + runSpeed);
-        //Debug.Log($"key = {key}　Runspeed = {runSpeed}");
+
+        if (rushTimer > 0)
+		{
+            rushTimer -= Time.deltaTime;
+		}
+		else
+		{
+			rb.velocity = new Vector2(key * runSpeed, rb.velocity.y);
+		}
 
     }
 
@@ -154,16 +181,21 @@ public class PlayerController : MonoBehaviour {
             case "Run":
                 characterAnimation.SetBool("Idle", false);
                 characterAnimation.SetBool("Run", true);
-                transform.localScale = new Vector3(key*0.3f, 0.3f, 0.3f);
 
                 
                 break;
         }
     }
 
+    void ChangeDirection(int dir)
+	{
+		direction = dir;
+		transform.localScale = new Vector3(direction * 0.3f, 0.3f, 0.3f);
+	}
+
    void HitEnemy()
     {
-        if (Input.GetKeyDown(KeyCode.C)|| Flute.B && Flute.C_down)
+        if (Input.GetKeyDown(KeyCode.C)|| Flute.C && Flute.B_down)
         {
             //if (transform.localScale.x = 0.3f)
             //{
@@ -194,5 +226,13 @@ public class PlayerController : MonoBehaviour {
         }
     }
 
-   
+	void OnCollisionExit2D(Collision2D col)
+	{
+		if (col.gameObject.tag == "Ground")
+		{
+			isGround = false;
+		}
+	}
+
+
 }
