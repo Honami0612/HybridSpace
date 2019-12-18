@@ -263,10 +263,10 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.35
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 9
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -306,9 +306,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jumpForce: 390
   runForce: 30
-  runSpeed: 5
+  runSpeed: 8
   ball: {fileID: 1708571605364284, guid: 4dd489f4db9b44150a3ac3a4f4e9a9b6, type: 3}
   mator: {fileID: 1092434276025862, guid: 91fd9c2e67480417d8bd10d515738427, type: 3}
+  rushSpeed: 40
+  rushDuration: 0.3
+  highJumpForce: 700
 --- !u!1 &12894135
 GameObject:
   m_ObjectHideFlags: 0
@@ -513,6 +516,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   portName: /dev/cu.usbmodem1431
+  useFlute: 0
   audioSourceC: {fileID: 99565726}
   audioSourceD: {fileID: 99565727}
   audioSourceE: {fileID: 99565732}
@@ -2536,6 +2540,9 @@ MonoBehaviour:
   runSpeed: 7
   ball: {fileID: 1708571605364284, guid: 4dd489f4db9b44150a3ac3a4f4e9a9b6, type: 3}
   mator: {fileID: 1092434276025862, guid: 91fd9c2e67480417d8bd10d515738427, type: 3}
+  rushSpeed: 0
+  rushDuration: 0
+  highJumpForce: 0
 --- !u!114 &1198270344
 MonoBehaviour:
   m_ObjectHideFlags: 0
