@@ -195,7 +195,7 @@ public class PlayerController : MonoBehaviour {
 
    void HitEnemy()
     {
-        if (Input.GetKeyDown(KeyCode.C)|| Flute.C && Flute.B_down)
+        if (Input.GetKeyDown(KeyCode.C)|| Flute.C && Flute.B_down || Flute.D && Flute.B_down)
         {
             //if (transform.localScale.x = 0.3f)
             //{
