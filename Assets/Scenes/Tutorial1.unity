@@ -528,8 +528,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75b40f57dfad14a5590b761d10e69d74, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  portName: /dev/cu.usbmodem1431
-  useFlute: 0
+  portName: /dev/cu.usbmodem1411
+  useFlute: 1
   audioSourceC: {fileID: 99565726}
   audioSourceD: {fileID: 99565727}
   audioSourceE: {fileID: 99565732}

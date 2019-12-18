@@ -8,4 +8,9 @@ public class NextLevel : MonoBehaviour
         //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         SceneManager.LoadScene("Tutorial1");
     }
+
+    private void Update()
+    {
+        if (Flute.breath) StartGame();
+    }
 }

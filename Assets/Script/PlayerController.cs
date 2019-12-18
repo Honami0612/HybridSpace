@@ -120,7 +120,7 @@ public class PlayerController : MonoBehaviour {
                 //jumpCount++;
                 isGround = false;
             }
-            if (Input.GetKeyDown(KeyCode.W) || Flute.D && Flute.A_down)
+            if (Input.GetKeyDown(KeyCode.Q) || Flute.D && Flute.A_down)
             {
                 //bigjump
                 state = "Idle";// "Jump";
