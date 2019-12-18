@@ -5,8 +5,8 @@ using UnityEngine.UI;
 
 public class Enemy : MonoBehaviour {
 
-    [SerializeField]
-    Text enemyMode;
+    //[SerializeField]
+    //Text enemyMode;
 
     public int enemyAttribute;
     private int playerMode;
@@ -25,7 +25,7 @@ public class Enemy : MonoBehaviour {
         rb = GetComponent<Rigidbody2D>();
         pos = field.transform.position;
         modeChange = GameObject.FindWithTag("Player").GetComponent<ModeChange>();
-        enemyAnimator = GetComponent<Animator>();
+        enemyAnimator = this.gameObject.GetComponent<Animator>();
         state = "Idle";
     }
 	
@@ -33,7 +33,6 @@ public class Enemy : MonoBehaviour {
 	void Update () {
 		playerMode=modeChange.nowNumber;
         ChangeAnimation();
-        enemyMode.text = pos.x.ToString();
         Move();
         
 	}
@@ -78,9 +77,16 @@ public class Enemy : MonoBehaviour {
                 enemyAnimator.SetBool("Idle", false);
                 enemyAnimator.SetBool("Walk", false);
                 enemyAnimator.SetBool("Attack", true);
+                StartCoroutine(Wait());
                 break;
 
 
         }
+    }
+
+    IEnumerator Wait()
+    {
+        yield return new WaitForSeconds(1f);
+        state = "Idle";
     }
 }
