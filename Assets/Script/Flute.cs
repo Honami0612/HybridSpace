@@ -8,7 +8,7 @@ public class Flute : MonoBehaviour
 {
     public string portName = "/dev/cu.usbmodem1431";
     SerialPort sp;
-    public bool useFlute;
+    public bool useFlute = true;
 
     public static bool breath = false;
     public static bool C = false;
@@ -114,21 +114,21 @@ public class Flute : MonoBehaviour
 
                 switch (bite)
                 {
-                    case 7: C = true; C_down = true; print("C"); break;
-                    case 6: D = true; D_down = true; print("D"); break;
-                    case 5: E = true; E_down = true; print("E"); break;
+                    case 1: C = true; C_down = true; print("C"); break;
+                    case 2: D = true; D_down = true; print("D"); break;
+                    case 3: E = true; E_down = true; print("E"); break;
                     case 4: F = true; F_down = true; print("F"); break;
-                    case 3: G = true; G_down = true; print("G"); break;
-                    case 2: A = true; A_down = true; print("A"); break;
-                    case 1: B = true; B_down = true; print("B"); break;
+                    case 5: G = true; G_down = true; print("G"); break;
+                    case 6: A = true; A_down = true; print("A"); break;
+                    case 7: B = true; B_down = true; print("B"); break;
 
-                    case 14: C = false; C_up = true; print("release C"); break;
-                    case 13: D = false; D_up = true; print("release D"); break;
-                    case 12: E = false; E_up = true; print("release E"); break;
+                    case 8: C = false; C_up = true; print("release C"); break;
+                    case 9: D = false; D_up = true; print("release D"); break;
+                    case 10: E = false; E_up = true; print("release E"); break;
                     case 11: F = false; F_up = true; print("release F"); break;
-                    case 10: G = false; G_up = true; print("release G"); break;
-                    case 9: A = false; A_up = true; print("release A"); break;
-                    case 8: B = false; B_up = true; print("release B"); break;
+                    case 12: G = false; G_up = true; print("release G"); break;
+                    case 13: A = false; A_up = true; print("release A"); break;
+                    case 14: B = false; B_up = true; print("release B"); break;
 
                     case 15: breath = true; print("Breath"); break;
                     case 16: breath = false; print("stop breathing"); break;
@@ -148,29 +148,29 @@ public class Flute : MonoBehaviour
 
     void UpdateFluteStatusByKey()
     {
-        C = Input.GetKey(KeyCode.P);
-        D = Input.GetKey(KeyCode.O);
-        E = Input.GetKey(KeyCode.I);
+        C = Input.GetKey(KeyCode.R);
+        D = Input.GetKey(KeyCode.E);
+        E = Input.GetKey(KeyCode.W);
         F = Input.GetKey(KeyCode.U);
-        G = Input.GetKey(KeyCode.W);
-        A = Input.GetKey(KeyCode.E);
-        B = Input.GetKey(KeyCode.R);
+        G = Input.GetKey(KeyCode.I);
+        A = Input.GetKey(KeyCode.O);
+        B = Input.GetKey(KeyCode.P);
 
-        C_down = Input.GetKeyDown(KeyCode.P);
-        D_down = Input.GetKeyDown(KeyCode.O);
-        E_down = Input.GetKeyDown(KeyCode.I);
+        C_down = Input.GetKeyDown(KeyCode.R);
+        D_down = Input.GetKeyDown(KeyCode.E);
+        E_down = Input.GetKeyDown(KeyCode.W);
         F_down = Input.GetKeyDown(KeyCode.U);
-        G_down = Input.GetKeyDown(KeyCode.W);
-        A_down = Input.GetKeyDown(KeyCode.E);
-        B_down = Input.GetKeyDown(KeyCode.R);
+        G_down = Input.GetKeyDown(KeyCode.I);
+        A_down = Input.GetKeyDown(KeyCode.O);
+        B_down = Input.GetKeyDown(KeyCode.P);
 
-        C_up = Input.GetKeyUp(KeyCode.P);
-        D_up = Input.GetKeyUp(KeyCode.O);
-        E_up = Input.GetKeyUp(KeyCode.I);
+        C_up = Input.GetKeyUp(KeyCode.R);
+        D_up = Input.GetKeyUp(KeyCode.E);
+        E_up = Input.GetKeyUp(KeyCode.W);
         F_up = Input.GetKeyUp(KeyCode.U);
-        G_up = Input.GetKeyUp(KeyCode.W);
-        A_up = Input.GetKeyUp(KeyCode.E);
-        B_up = Input.GetKeyUp(KeyCode.R);
+        G_up = Input.GetKeyUp(KeyCode.I);
+        A_up = Input.GetKeyUp(KeyCode.O);
+        B_up = Input.GetKeyUp(KeyCode.P);
     }
 
 
