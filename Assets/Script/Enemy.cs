@@ -33,7 +33,6 @@ public class Enemy : MonoBehaviour {
 	void Update () {
 		playerMode=modeChange.nowNumber;
         ChangeAnimation();
-        //enemyMode.text = state.ToString() ;
         enemyMode.text = pos.x.ToString();
         Move();
         

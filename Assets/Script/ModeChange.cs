@@ -11,35 +11,27 @@ public class ModeChange : MonoBehaviour {
     [SerializeField]
     Text check;
 
-    SpriteRenderer spriteRenderer;
-
     [SerializeField]
     GameObject[] bodyParticle;
     private int number = 3;
     public int modeNumber = 0;
 
-    [SerializeField]
-    Text lifeText;
-    public int playerLife;
-
     string modeState;
 
     Enemy enemyScript;
 
-    SpriteRenderer nowLifeSprite;
+    public Image nowLifeImage;
     [SerializeField]
-    Sprite[] lifeSprite;
-    int lifeSpritenumber=0;
+    Sprite[] lifeSprite; 
+    public int lifeSpritenumber=0;
     
 
 	void Start () {
        
-        spriteRenderer = GetComponent<SpriteRenderer>();
-        lifeText.text = "Life:" + playerLife.ToString();
         check.text = "0:Nomal"+" 1:Fire"+ " 2:Thunder"+ "3:Wind\n" + "nowMode:"+modeNumber.ToString();
         enemyScript = GameObject.FindWithTag("Enemy").GetComponent<Enemy>();
         bodyParticle[modeNumber].gameObject.SetActive(true);
-        nowLifeSprite = GameObject.Find("nowLife").GetComponent<SpriteRenderer>();
+        nowLifeImage = this.GetComponent<Image>();
 
 
     }
@@ -58,28 +50,31 @@ public class ModeChange : MonoBehaviour {
 
     void Mode()
     {
-        if (Flute.G && Flute.F_down)
+        if (Flute.E && Flute.F_down)
         {
             modeNumber = 0;
             foreach (GameObject body in bodyParticle) body.gameObject.SetActive(false);
             bodyParticle[0].gameObject.SetActive(true);
-            //spriteRenderer.sprite = changeMode[modeNumber];
         }
-        if (Flute.G && Flute.E_down)
+        if (Flute.E && Flute.G_down)
         {
             modeNumber = 1;
             foreach (GameObject body in bodyParticle) body.gameObject.SetActive(false);
             bodyParticle[1].gameObject.SetActive(true);
-            //spriteRenderer.sprite = changeMode[modeNumber];
         }
-        if (Flute.G && Flute.D_down)
+        if (Flute.E && Flute.A_down)
         {
             modeNumber = 2;
             foreach (GameObject body in bodyParticle) body.gameObject.SetActive(false);
             bodyParticle[2].gameObject.SetActive(true);
-            //spriteRenderer.sprite = changeMode[modeNumber];
         }
-        
+        if (Flute.E && Flute.B_down)
+        {
+            modeNumber = 3;
+            foreach (GameObject body in bodyParticle) body.gameObject.SetActive(false);
+            bodyParticle[3].gameObject.SetActive(true);
+        }
+
 
         if (Input.GetKeyDown(KeyCode.S))
         {
@@ -90,13 +85,11 @@ public class ModeChange : MonoBehaviour {
             {
                 modeNumber++;
                 bodyParticle[modeNumber].gameObject.SetActive(true);
-                //spriteRenderer.sprite = changeMode[modeNumber];
             }
             else
             {
                 modeNumber = 0;
                 bodyParticle[modeNumber].gameObject.SetActive(true);
-                //spriteRenderer.sprite = changeMode[modeNumber];
             }
 
         }
@@ -124,14 +117,21 @@ public class ModeChange : MonoBehaviour {
     {
         if (collision.gameObject.tag == "Enemy")
         {
-            nowLifeSprite.sprite = lifeSprite[lifeSpritenumber];
-            lifeSpritenumber++;
+           
+            
             enemyScript.state = "Attack";
-            playerLife -= 20;
-            lifeText.text = "Life:"+playerLife.ToString();
+            Debug.LogError("Hit" + lifeSpritenumber);
+
+            nowLifeImage.sprite = lifeSprite[lifeSpritenumber];
+            lifeSpritenumber++;
+
             StartCoroutine(EnemyMode());
+
+
         }
     }
+
+   
 
     public int nowNumber
     {

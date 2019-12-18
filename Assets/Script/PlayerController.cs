@@ -60,14 +60,14 @@ public class PlayerController : MonoBehaviour {
     void GetInputKey()
     {
             key = 0;
-        if (Input.GetKey(KeyCode.D) || Flute.B && Flute.E)
+        if (Input.GetKey(KeyCode.D) || Flute.C && Flute.G)
         {
             //print("heyYo");
             key = 1;
 
         }
             
-        if (Input.GetKey(KeyCode.A) || Flute.B && Flute.F)
+        if (Input.GetKey(KeyCode.A) || Flute.C && Flute.F)
             key = -1;
     }
 
@@ -112,32 +112,32 @@ public class PlayerController : MonoBehaviour {
     {
         if (isGround)
         {
-            if (Input.GetKeyDown(KeyCode.Space) || Flute.B && Flute.D_down)
+            if (Input.GetKeyDown(KeyCode.Space) || Flute.C && Flute.A_down)
             {
                 //jump
                 state = "Idle";//"Jump";
                 rb.AddForce(transform.up * jumpForce);
-                jumpCount++;
+                //jumpCount++;
                 isGround = false;
             }
-            if (Input.GetKeyDown(KeyCode.W))
+            if (Input.GetKeyDown(KeyCode.W) || Flute.D && Flute.A_down)
             {
                 //bigjump
                 state = "Idle";// "Jump";
-                rb.AddForce(transform.up * 600f) ;
+                rb.AddForce(transform.up * 700f) ;
                 isGround = false;
             }
         }
         if (!isGround)
         {
-            if (Input.GetKeyDown(KeyCode.Space))
-            {
-                if (jumpCount <1)
-                {
-                    rb.AddForce(transform.up * jumpForce);
-                    jumpCount++;
-                }
-            }
+            //if (Input.GetKeyDown(KeyCode.Space) || Flute.C && Flute.A_down)
+            //{
+            //    if (jumpCount <1)
+            //    {
+            //        rb.AddForce(transform.up * jumpForce);
+            //        jumpCount++;
+            //    }
+            //}
             if (state == "Fall")
             {
                 rb.AddForce(transform.up * -100f);
@@ -172,7 +172,7 @@ public class PlayerController : MonoBehaviour {
 
    void HitEnemy()
     {
-        if (Input.GetKeyDown(KeyCode.C)|| Flute.B && Flute.C_down)
+        if (Input.GetKeyDown(KeyCode.C)|| Flute.C && Flute.B_down)
         {
             //if (transform.localScale.x = 0.3f)
             //{
