@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+
+//Move()のWindModeのフルートナンバー追加
 
 public class ModeChange : MonoBehaviour {
 
@@ -11,7 +14,8 @@ public class ModeChange : MonoBehaviour {
     SpriteRenderer spriteRenderer;
 
     [SerializeField]
-    Sprite[] changeMode;
+    GameObject[] bodyParticle;
+    private int number = 3;
     public int modeNumber = 0;
 
     [SerializeField]
@@ -21,45 +25,82 @@ public class ModeChange : MonoBehaviour {
     string modeState;
 
     Enemy enemyScript;
+
+    SpriteRenderer nowLifeSprite;
+    [SerializeField]
+    Sprite[] lifeSprite;
+    int lifeSpritenumber=0;
     
 
 	void Start () {
+       
         spriteRenderer = GetComponent<SpriteRenderer>();
         lifeText.text = "Life:" + playerLife.ToString();
-        check.text = "0:Nomal"+" 1:Fire"+ " 2:Thunder\n" + "nowMode:"+modeNumber.ToString();
+        check.text = "0:Nomal"+" 1:Fire"+ " 2:Thunder"+ "3:Wind\n" + "nowMode:"+modeNumber.ToString();
         enemyScript = GameObject.FindWithTag("Enemy").GetComponent<Enemy>();
+        bodyParticle[modeNumber].gameObject.SetActive(true);
+        nowLifeSprite = GameObject.Find("nowLife").GetComponent<SpriteRenderer>();
+
 
     }
 
     void Update () {
-
+       
         Mode();
         ChangeModeState();
+        if (lifeSpritenumber >= 10)
+        {
+            SceneManager.LoadScene("GameOver");
+            //GameOver
+        }
 
 	}
 
     void Mode()
     {
-        if (Flute.G && Flute.F_down) modeNumber = 0; spriteRenderer.sprite = changeMode[modeNumber];
-        if (Flute.G && Flute.E_down) modeNumber = 1; spriteRenderer.sprite = changeMode[modeNumber];
-        if (Flute.G && Flute.D_down) modeNumber = 2; spriteRenderer.sprite = changeMode[modeNumber];
+        if (Flute.G && Flute.F_down)
+        {
+            modeNumber = 0;
+            foreach (GameObject body in bodyParticle) body.gameObject.SetActive(false);
+            bodyParticle[0].gameObject.SetActive(true);
+            //spriteRenderer.sprite = changeMode[modeNumber];
+        }
+        if (Flute.G && Flute.E_down)
+        {
+            modeNumber = 1;
+            foreach (GameObject body in bodyParticle) body.gameObject.SetActive(false);
+            bodyParticle[1].gameObject.SetActive(true);
+            //spriteRenderer.sprite = changeMode[modeNumber];
+        }
+        if (Flute.G && Flute.D_down)
+        {
+            modeNumber = 2;
+            foreach (GameObject body in bodyParticle) body.gameObject.SetActive(false);
+            bodyParticle[2].gameObject.SetActive(true);
+            //spriteRenderer.sprite = changeMode[modeNumber];
+        }
+        
 
         if (Input.GetKeyDown(KeyCode.S))
         {
-            modeNumber++;
-
-            if (modeNumber < changeMode.Length)
+            
+           foreach(GameObject body in bodyParticle) body.gameObject.SetActive(false);
+           
+            if (modeNumber < number)
             {
-                spriteRenderer.sprite = changeMode[modeNumber];
+                modeNumber++;
+                bodyParticle[modeNumber].gameObject.SetActive(true);
+                //spriteRenderer.sprite = changeMode[modeNumber];
             }
             else
             {
                 modeNumber = 0;
-                spriteRenderer.sprite = changeMode[modeNumber];
+                bodyParticle[modeNumber].gameObject.SetActive(true);
+                //spriteRenderer.sprite = changeMode[modeNumber];
             }
 
         }
-        check.text = "0:Nomal" + " 1:Fire" + " 2:Thunder\n" + "nowMode:" + modeNumber.ToString();
+        check.text = "0:Nomal" + " 1:Fire" + " 2:Thunder"+ " 3:Wind\n" + "nowMode:" + modeNumber.ToString();
     }
 
     void ChangeModeState()
@@ -83,6 +124,8 @@ public class ModeChange : MonoBehaviour {
     {
         if (collision.gameObject.tag == "Enemy")
         {
+            nowLifeSprite.sprite = lifeSprite[lifeSpritenumber];
+            lifeSpritenumber++;
             enemyScript.state = "Attack";
             playerLife -= 20;
             lifeText.text = "Life:"+playerLife.ToString();

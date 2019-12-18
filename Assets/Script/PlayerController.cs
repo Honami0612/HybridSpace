@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.IO.Ports;
 
+//Move()の大ジャンプとジャンプのフルートナンバー設定
+
 public class PlayerController : MonoBehaviour {
     //[SerializeField]
     //Text checkText;
@@ -110,14 +112,21 @@ public class PlayerController : MonoBehaviour {
     {
         if (isGround)
         {
-            //jump
             if (Input.GetKeyDown(KeyCode.Space) || Flute.B && Flute.D_down)
             {
-                state = "Idle";
+                //jump
+                state = "Idle";//"Jump";
                 rb.AddForce(transform.up * jumpForce);
                 jumpCount++;
                 isGround = false;
-              }
+            }
+            if (Input.GetKeyDown(KeyCode.W))
+            {
+                //bigjump
+                state = "Idle";// "Jump";
+                rb.AddForce(transform.up * 600f) ;
+                isGround = false;
+            }
         }
         if (!isGround)
         {

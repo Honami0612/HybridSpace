@@ -33,7 +33,8 @@ public class Enemy : MonoBehaviour {
 	void Update () {
 		playerMode=modeChange.nowNumber;
         ChangeAnimation();
-        enemyMode.text = state.ToString() ;
+        //enemyMode.text = state.ToString() ;
+        enemyMode.text = pos.x.ToString();
         Move();
         
 	}
@@ -55,7 +56,7 @@ public class Enemy : MonoBehaviour {
         if (state != "Attack")
         {
             state = "Walk";
-            rb.MovePosition(new Vector3(pos.x + Mathf.PingPong(Time.deltaTime, 3), pos.y, pos.z));
+            
         }
         
     }
