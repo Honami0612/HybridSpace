@@ -21,12 +21,18 @@ public class Shot : MonoBehaviour {
 
     int key;
 
+    ModeChange modeChange;
+    [SerializeField]
+    GameObject[] particle;
+    int modeNumber;
+
 	// Use this for initialization
 	void Start () {
         playerController = GameObject.FindWithTag("Player").GetComponent<PlayerController>();
         playerObject = GameObject.FindWithTag("Player").GetComponent<Transform>();
         this.rb = GetComponent<Rigidbody2D>();
         mator = GameObject.Find("arrow(Clone)");
+        modeChange = GameObject.FindWithTag("Player").GetComponent<ModeChange>();
     }
 
     // Update is called once per frame
@@ -79,8 +85,10 @@ public class Shot : MonoBehaviour {
 
     void MoveShot()
     {
-        
+        modeNumber = modeChange.nowNumber;
         rb.bodyType = RigidbodyType2D.Dynamic;
+        GameObject obj = Instantiate(particle[modeNumber], new Vector3(this.gameObject.transform.position.x, this.gameObject.transform.position.y, 1f), Quaternion.identity);
+        obj.transform.parent = this.gameObject.transform;
         this.rb.AddForce(new Vector2(addForce_x, addForce_y));
         Destroy(mator);
 
