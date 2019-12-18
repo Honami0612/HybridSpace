@@ -21,21 +21,27 @@ public class Shot : MonoBehaviour {
 
     int key;
 
+    ModeChange modeChange;
+    [SerializeField]
+    GameObject[] particle;
+    int modeNumber;
+
 	// Use this for initialization
 	void Start () {
         playerController = GameObject.FindWithTag("Player").GetComponent<PlayerController>();
         playerObject = GameObject.FindWithTag("Player").GetComponent<Transform>();
         this.rb = GetComponent<Rigidbody2D>();
         mator = GameObject.Find("arrow(Clone)");
+        modeChange = GameObject.FindWithTag("Player").GetComponent<ModeChange>();
     }
 
     // Update is called once per frame
     void Update () {
-        if (Input.GetKey(KeyCode.C)|| Flute.B && Flute.C)
+        if (Input.GetKey(KeyCode.C)|| Flute.C && Flute.B)
         {
             Mator();
         }
-        if (Input.GetKeyUp(KeyCode.C)|| Flute.C_up)
+        if (Input.GetKeyUp(KeyCode.C)|| Flute.B_up)
         {
             MoveShot();
         }
@@ -75,8 +81,10 @@ public class Shot : MonoBehaviour {
 
     void MoveShot()
     {
-        
+        modeNumber = modeChange.nowNumber;
         rb.bodyType = RigidbodyType2D.Dynamic;
+        GameObject obj = Instantiate(particle[modeNumber], new Vector3(this.gameObject.transform.position.x, this.gameObject.transform.position.y, 1f), Quaternion.identity);
+        obj.transform.parent = this.gameObject.transform;
         this.rb.AddForce(new Vector2(addForce_x, addForce_y));
         Destroy(mator);
 
