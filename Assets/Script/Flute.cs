@@ -110,7 +110,7 @@ public class Flute : MonoBehaviour
             try
             {
                 int bite = sp.ReadByte();
-                print(bite);
+                //print(bite);
 
                 //if (breath != true && bite == 15) breath = true; print("Breath");
 

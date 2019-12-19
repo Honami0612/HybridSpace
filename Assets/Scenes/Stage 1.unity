@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 1
+  m_UseShadowmask: 0
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -310,6 +310,7 @@ MonoBehaviour:
   jumpForce: 500
   runSpeed: 7
   ball: {fileID: 1708571605364284, guid: 4dd489f4db9b44150a3ac3a4f4e9a9b6, type: 3}
+  howto: {fileID: 0}
 --- !u!1 &12894135
 GameObject:
   m_ObjectHideFlags: 0
@@ -519,8 +520,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75b40f57dfad14a5590b761d10e69d74, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  portName: /dev/cu.usbmodem1411
-  useFlute: 0
+  portName: /dev/cu.usbmodem1431
+  useFlute: 1
   audioSourceC: {fileID: 99565726}
   audioSourceD: {fileID: 99565727}
   audioSourceE: {fileID: 99565732}
@@ -3914,21 +3915,6 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5557054014355221351, guid: e90af2bd071f2b249827063c9a160948,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 5.1090236
-      objectReference: {fileID: 0}
-    - target: {fileID: 5557054014355221351, guid: e90af2bd071f2b249827063c9a160948,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 5.1090236
-      objectReference: {fileID: 0}
-    - target: {fileID: 5557054014355221351, guid: e90af2bd071f2b249827063c9a160948,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5.1090236
-      objectReference: {fileID: 0}
     - target: {fileID: 6597428371497461153, guid: e90af2bd071f2b249827063c9a160948,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3998,6 +3984,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 3.333333
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557054014355221351, guid: e90af2bd071f2b249827063c9a160948,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5.1090236
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557054014355221351, guid: e90af2bd071f2b249827063c9a160948,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5.1090236
+      objectReference: {fileID: 0}
+    - target: {fileID: 5557054014355221351, guid: e90af2bd071f2b249827063c9a160948,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 5.1090236
       objectReference: {fileID: 0}
     - target: {fileID: 7327014118179264535, guid: e90af2bd071f2b249827063c9a160948,
         type: 3}

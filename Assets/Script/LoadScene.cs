@@ -12,7 +12,7 @@ public class LoadScene : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKey(KeyCode.L) || Flute.breath_down) 
+        if (Input.GetKey(KeyCode.L) || Flute.breath) 
         {
                 image.sprite = startButtonChange;
                 StartCoroutine(SceneChange());
