@@ -6,19 +6,16 @@ using System.IO.Ports;
 
 
 public class PlayerController : MonoBehaviour {
-    [SerializeField]
-    Text check;
+    //[SerializeField]
+    //Text check;
 
     Rigidbody2D rb;
     
     [SerializeField]
     float jumpForce = 390.0f;       
-    float jumpThreshold = 2.0f;    
-    [SerializeField]
-    float runForce = 30.0f;      
+    float jumpThreshold = 2.0f;
     [SerializeField]
     float runSpeed = 0.5f;       
-    float runThreshold = 2.0f;   
     bool isGround = true;        
     int key = 0;                 
 
@@ -32,34 +29,32 @@ public class PlayerController : MonoBehaviour {
     //[SerializeField]
     //GameObject mator;
 
-    SpriteRenderer sprite;
-    [SerializeField]
-    Sprite jump;
-
     Animator characterAnimation;
+    ModeChange modeChange;
 
     void Start()
     {
-        sprite = this.gameObject.GetComponent<SpriteRenderer>();
         rb = GetComponent<Rigidbody2D>();
         characterAnimation = GetComponent<Animator>();
+        modeChange = GetComponent<ModeChange>();
     }
 
     void Update()
     {
 
-        
-        GetInputKey();        
+        GetInputKey();
+        Move();
+
         ChangeState();
         HitEnemy();
         ChangeAnimation();
-        check.text = state.ToString();
+
 
     }
 
     private void FixedUpdate()
     {
-        Move();       
+          
     }
 
     void GetInputKey()
@@ -153,13 +148,14 @@ public class PlayerController : MonoBehaviour {
         switch (state)
         {
             case "Idle":
-                characterAnimation.SetBool("Idle", true);
+                characterAnimation.SetInteger("Idle", modeChange.nowNumber);
+                characterAnimation.SetBool("Idlee", true);
                 characterAnimation.SetBool("Run", false);
                 characterAnimation.SetBool("Jump", false);
                 break;
 
             case "Run":
-                characterAnimation.SetBool("Idle", false);
+                characterAnimation.SetBool("Idlee", false);
                 characterAnimation.SetBool("Run", true);
                 characterAnimation.SetBool("Jump", false);
                 transform.localScale = new Vector3(key * 0.3f, 0.3f, 0.3f);
@@ -167,7 +163,7 @@ public class PlayerController : MonoBehaviour {
 
             case "Jump":
                 characterAnimation.SetBool("Jump", true);
-                characterAnimation.SetBool("Idle", false);
+                characterAnimation.SetBool("Idlee", false);
                 characterAnimation.SetBool("Run", false);
                 
                 break;

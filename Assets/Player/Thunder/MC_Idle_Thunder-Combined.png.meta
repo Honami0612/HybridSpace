@@ -1,0 +1,1543 @@
+fileFormatVersion: 2
+guid: 0287b731a0c8e4094af59c041cee9374
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 790393998065890319
+    second: MC_Idle_Thunder-Combined_0
+  - first:
+      213: 2116212927725386837
+    second: MC_Idle_Thunder-Combined_1
+  - first:
+      213: -4732686366828804768
+    second: MC_Idle_Thunder-Combined_2
+  - first:
+      213: -1030919509713171726
+    second: MC_Idle_Thunder-Combined_3
+  - first:
+      213: 2189679141327418259
+    second: MC_Idle_Thunder-Combined_4
+  - first:
+      213: 4150593814708038910
+    second: MC_Idle_Thunder-Combined_5
+  - first:
+      213: 4865836512689397836
+    second: MC_Idle_Thunder-Combined_6
+  - first:
+      213: 4182743457107897713
+    second: MC_Idle_Thunder-Combined_7
+  - first:
+      213: 3219887443689220995
+    second: MC_Idle_Thunder-Combined_8
+  - first:
+      213: 7300997594288440774
+    second: MC_Idle_Thunder-Combined_9
+  - first:
+      213: -2080516513303735986
+    second: MC_Idle_Thunder-Combined_10
+  - first:
+      213: -6144153036175459382
+    second: MC_Idle_Thunder-Combined_11
+  - first:
+      213: -5389580233979273404
+    second: MC_Idle_Thunder-Combined_12
+  - first:
+      213: 8325740800309429077
+    second: MC_Idle_Thunder-Combined_13
+  - first:
+      213: -7877492247047536004
+    second: MC_Idle_Thunder-Combined_14
+  - first:
+      213: 7292997636766848856
+    second: MC_Idle_Thunder-Combined_15
+  - first:
+      213: -6899674348261422155
+    second: MC_Idle_Thunder-Combined_16
+  - first:
+      213: -1033974425392377255
+    second: MC_Idle_Thunder-Combined_17
+  - first:
+      213: -5367977492734018158
+    second: MC_Idle_Thunder-Combined_18
+  - first:
+      213: 2883109504610697873
+    second: MC_Idle_Thunder-Combined_19
+  - first:
+      213: -7998335192289490868
+    second: MC_Idle_Thunder-Combined_20
+  - first:
+      213: 1072235280651956911
+    second: MC_Idle_Thunder-Combined_21
+  - first:
+      213: -5369152738465537673
+    second: MC_Idle_Thunder-Combined_22
+  - first:
+      213: -3771313094954589085
+    second: MC_Idle_Thunder-Combined_23
+  - first:
+      213: -3527532948289697149
+    second: MC_Idle_Thunder-Combined_24
+  - first:
+      213: -6957598974981604477
+    second: MC_Idle_Thunder-Combined_25
+  - first:
+      213: -4119421377567825988
+    second: MC_Idle_Thunder-Combined_26
+  - first:
+      213: -5391196754899821902
+    second: MC_Idle_Thunder-Combined_27
+  - first:
+      213: 1053774327803324970
+    second: MC_Idle_Thunder-Combined_28
+  - first:
+      213: 1396322146172154956
+    second: MC_Idle_Thunder-Combined_29
+  - first:
+      213: -2561982263218861801
+    second: MC_Idle_Thunder-Combined_30
+  - first:
+      213: -5098141085497097611
+    second: MC_Idle_Thunder-Combined_31
+  - first:
+      213: 789877709210156342
+    second: MC_Idle_Thunder-Combined_32
+  - first:
+      213: 5773655030139490801
+    second: MC_Idle_Thunder-Combined_33
+  - first:
+      213: 7807764011971700357
+    second: MC_Idle_Thunder-Combined_34
+  - first:
+      213: -4499788386464986403
+    second: MC_Idle_Thunder-Combined_35
+  - first:
+      213: 6778087103210619461
+    second: MC_Idle_Thunder-Combined_36
+  - first:
+      213: 1991594343176218553
+    second: MC_Idle_Thunder-Combined_37
+  - first:
+      213: -5839391766185305723
+    second: MC_Idle_Thunder-Combined_38
+  - first:
+      213: -4590536494923831193
+    second: MC_Idle_Thunder-Combined_39
+  - first:
+      213: 2510431311454301601
+    second: MC_Idle_Thunder-Combined_40
+  - first:
+      213: 814302037859372801
+    second: MC_Idle_Thunder-Combined_41
+  - first:
+      213: -3732626833890922575
+    second: MC_Idle_Thunder-Combined_42
+  - first:
+      213: -2481190671487278687
+    second: MC_Idle_Thunder-Combined_43
+  - first:
+      213: -6919853529401159258
+    second: MC_Idle_Thunder-Combined_44
+  - first:
+      213: -2613174959706047415
+    second: MC_Idle_Thunder-Combined_45
+  - first:
+      213: -5788906756728180847
+    second: MC_Idle_Thunder-Combined_46
+  - first:
+      213: -1471623885075276685
+    second: MC_Idle_Thunder-Combined_47
+  - first:
+      213: 4615293208528988860
+    second: MC_Idle_Thunder-Combined_48
+  - first:
+      213: -3890544371013087754
+    second: MC_Idle_Thunder-Combined_49
+  - first:
+      213: -4734038816303305826
+    second: MC_Idle_Thunder-Combined_50
+  - first:
+      213: 4274499055941097305
+    second: MC_Idle_Thunder-Combined_51
+  - first:
+      213: -1374751962773843487
+    second: MC_Idle_Thunder-Combined_52
+  - first:
+      213: 6359594677977686668
+    second: MC_Idle_Thunder-Combined_53
+  - first:
+      213: -7380092921091860013
+    second: MC_Idle_Thunder-Combined_54
+  - first:
+      213: -1257250014064490147
+    second: MC_Idle_Thunder-Combined_55
+  - first:
+      213: 1357341952549758519
+    second: MC_Idle_Thunder-Combined_56
+  - first:
+      213: 2245108862536641453
+    second: MC_Idle_Thunder-Combined_57
+  - first:
+      213: -1769716480370993811
+    second: MC_Idle_Thunder-Combined_58
+  - first:
+      213: -1593647953590997016
+    second: MC_Idle_Thunder-Combined_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_0
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 12829
+        width: 878
+        height: 1511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f01240906e54772937771fe4399f3a
+      internalID: 790393998065890319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_1
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 12830
+        width: 877
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31cd964e965547bd999893162873404
+      internalID: 2116212927725386837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_2
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 12830
+        width: 878
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da03642e4ec54cafbd5eb3404b944aa
+      internalID: -4732686366828804768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_3
+      rect:
+        serializedVersion: 2
+        x: 5249
+        y: 12832
+        width: 871
+        height: 1501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be3a4e4ee4864742937a7c572ec4cbc
+      internalID: -1030919509713171726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_4
+      rect:
+        serializedVersion: 2
+        x: 6852
+        y: 12830
+        width: 864
+        height: 1503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d375125a50041cb972624b3e26b8d5
+      internalID: 2189679141327418259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_5
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 12830
+        width: 864
+        height: 1501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e821eb7fb32e9448e803324dc02246f0
+      internalID: 4150593814708038910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_6
+      rect:
+        serializedVersion: 2
+        x: 10051
+        y: 12830
+        width: 857
+        height: 1496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0272080920c404488bc17ef2dda03e51
+      internalID: 4865836512689397836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 11232
+        width: 850
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578f7258d578f42398842b0e798e75c5
+      internalID: 4182743457107897713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_8
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 11232
+        width: 843
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f238a0e36ffb4627b352d0081294cfe
+      internalID: 3219887443689220995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_9
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 11232
+        width: 836
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bcfafa83c0847b2b1444539be25a42
+      internalID: 7300997594288440774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_10
+      rect:
+        serializedVersion: 2
+        x: 5263
+        y: 11232
+        width: 829
+        height: 1490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adb257e832e9462a9cccf58b8cd5fc0
+      internalID: -2080516513303735986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_11
+      rect:
+        serializedVersion: 2
+        x: 6866
+        y: 11232
+        width: 822
+        height: 1484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d99d42876b24071a7218996a61c582
+      internalID: -6144153036175459382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_12
+      rect:
+        serializedVersion: 2
+        x: 8469
+        y: 11232
+        width: 815
+        height: 1484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed156915d19784d70bfb766ab93a0c11
+      internalID: -5389580233979273404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_13
+      rect:
+        serializedVersion: 2
+        x: 10072
+        y: 11232
+        width: 808
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229034056074d45299f2f36d3ea356c3
+      internalID: 8325740800309429077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_14
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 9629
+        width: 801
+        height: 1496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29461b44c3a074ba98d5fcabf8ded14a
+      internalID: -7877492247047536004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_15
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 9629
+        width: 794
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6bba039089f4fc9a3652e15406c668
+      internalID: 7292997636766848856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_16
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 9629
+        width: 787
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf498517b7b04078a713facb6d6d228
+      internalID: -6899674348261422155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_17
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 9629
+        width: 787
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0c0f12643b0451496148e7ca9f6138
+      internalID: -1033974425392377255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_18
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 9629
+        width: 780
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49ee1c0e5bb74687bdb3b4a12c546fa
+      internalID: -5367977492734018158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_19
+      rect:
+        serializedVersion: 2
+        x: 8476
+        y: 9629
+        width: 779
+        height: 1505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24df7804a8c4040ec9c84696def5785e
+      internalID: 2883109504610697873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_20
+      rect:
+        serializedVersion: 2
+        x: 10079
+        y: 9630
+        width: 772
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e3df90d47264c15b6b067da4ab896d
+      internalID: -7998335192289490868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_21
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 8033
+        width: 765
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a002c500446e5460e9de03088389c3f0
+      internalID: 1072235280651956911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_22
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 8033
+        width: 759
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3203bc520f4e84c0d8bf403f33269dd4
+      internalID: -5369152738465537673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_23
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 8033
+        width: 758
+        height: 1505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9bd53b2fcba44b5ab8f5186b8408c2
+      internalID: -3771313094954589085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_24
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 8033
+        width: 759
+        height: 1505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398afce00c06d4d878437ab89e5ea95e
+      internalID: -3527532948289697149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_25
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 8033
+        width: 752
+        height: 1505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f251e8b94efc540798307c319f006262
+      internalID: -6957598974981604477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_26
+      rect:
+        serializedVersion: 2
+        x: 8476
+        y: 8033
+        width: 752
+        height: 1505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4849375b608414d8985fba8e7cee25
+      internalID: -4119421377567825988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_27
+      rect:
+        serializedVersion: 2
+        x: 10079
+        y: 8033
+        width: 745
+        height: 1511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8493d52445d4146c4ba399c164713f45
+      internalID: -5391196754899821902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_28
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 6430
+        width: 744
+        height: 1512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75493f102b2949588dff046cbfb69f9
+      internalID: 1053774327803324970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_29
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 6430
+        width: 744
+        height: 1518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1bc736272ca4f64bc1c1538978391d
+      internalID: 1396322146172154956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_30
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 6430
+        width: 738
+        height: 1519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e26ee0b5e00f45a0ba39bf7565c158f
+      internalID: -2561982263218861801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_31
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 6430
+        width: 745
+        height: 1519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0cf40067b0647cb89995ee4e4290ff
+      internalID: -5098141085497097611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_32
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 6430
+        width: 745
+        height: 1526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b524807ac9946268dd1c01b4fb8f31
+      internalID: 789877709210156342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_33
+      rect:
+        serializedVersion: 2
+        x: 8476
+        y: 6430
+        width: 751
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e457d07ef8404ad6a8acb16659c25ff
+      internalID: 5773655030139490801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_34
+      rect:
+        serializedVersion: 2
+        x: 10079
+        y: 6430
+        width: 751
+        height: 1519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72da344678ff44623a2d775f28250115
+      internalID: 7807764011971700357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_35
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 4834
+        width: 758
+        height: 1511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876b631d123574a8fae7623115a58a61
+      internalID: -4499788386464986403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_36
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 4834
+        width: 758
+        height: 1505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7830704153213436b85b219febd8779b
+      internalID: 6778087103210619461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_37
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 4834
+        width: 758
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2ddbed4c3554505ac8895a01b6d511
+      internalID: 1991594343176218553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_38
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 4834
+        width: 765
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212dcfa3d9bac4394a8b0f1525a163cd
+      internalID: -5839391766185305723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_39
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 4834
+        width: 766
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b727faf021b1b4027b79c0e4c12234d9
+      internalID: -4590536494923831193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_40
+      rect:
+        serializedVersion: 2
+        x: 8476
+        y: 4834
+        width: 773
+        height: 1490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c700859baf34d8ea374e5b4303644f
+      internalID: 2510431311454301601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_41
+      rect:
+        serializedVersion: 2
+        x: 10079
+        y: 4834
+        width: 773
+        height: 1484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b67e72648d84230a092ae66ac312e2
+      internalID: 814302037859372801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_42
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 3231
+        width: 779
+        height: 1483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c919b9ec9c624926a87654c28d8da54
+      internalID: -3732626833890922575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_43
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 3231
+        width: 786
+        height: 1490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761ebd2ff38f0466b863e962c592c417
+      internalID: -2481190671487278687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_44
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 3231
+        width: 787
+        height: 1494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f9b5bf6f2c642b6b65ca20499cf21e
+      internalID: -6919853529401159258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_45
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 3231
+        width: 794
+        height: 1497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34014841c9cfa4077a281bb55262e891
+      internalID: -2613174959706047415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_46
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 3231
+        width: 794
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5783179ac339443ff99eeca8f15e256e
+      internalID: -5788906756728180847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_47
+      rect:
+        serializedVersion: 2
+        x: 8476
+        y: 3231
+        width: 801
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a88da7a6ca24c7f8ecd96424b966bb
+      internalID: -1471623885075276685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_48
+      rect:
+        serializedVersion: 2
+        x: 10079
+        y: 3231
+        width: 808
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f42a52b47c87454fb8c0db0d0a0b694
+      internalID: 4615293208528988860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_49
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1630
+        width: 814
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17992fb6af0644b29be4556a4dfac10
+      internalID: -3890544371013087754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_50
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 1630
+        width: 815
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0a86ad3292f4afe80824749d1b2227
+      internalID: -4734038816303305826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_51
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 1631
+        width: 815
+        height: 1508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d771bf15c753c4877bb9d35440de1eac
+      internalID: 4274499055941097305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_52
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 1635
+        width: 829
+        height: 1511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872f02d672c1a4823af1db241e8bd415
+      internalID: -1374751962773843487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_53
+      rect:
+        serializedVersion: 2
+        x: 6866
+        y: 1635
+        width: 836
+        height: 1511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650a9208478fb415fbf1a53463f1c00c
+      internalID: 6359594677977686668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_54
+      rect:
+        serializedVersion: 2
+        x: 8462
+        y: 1635
+        width: 849
+        height: 1511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d39d52267994d3f8f1531602dd865a
+      internalID: -7380092921091860013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_55
+      rect:
+        serializedVersion: 2
+        x: 10058
+        y: 1635
+        width: 857
+        height: 1518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8c73bdeefbd4040bcf82a3fbafa983
+      internalID: -1257250014064490147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_56
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 32
+        width: 864
+        height: 1525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee7e2a21a7084593ad60e175ba41599
+      internalID: 1357341952549758519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_57
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 32
+        width: 871
+        height: 1525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3856f0c95d334181a151869ad07a45b
+      internalID: 2245108862536641453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_58
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 32
+        width: 872
+        height: 1525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d67666b193974a8696e15e4f20fa06d
+      internalID: -1769716480370993811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Idle_Thunder-Combined_59
+      rect:
+        serializedVersion: 2
+        x: 5249
+        y: 32
+        width: 878
+        height: 1525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e01979078dd54fd3838cf876ec0eae2
+      internalID: -1593647953590997016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
