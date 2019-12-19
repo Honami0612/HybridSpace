@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: c94e923ef9ef749e4a68d779e614ca09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7059942292019315384
+    second: Run_Thunder_Combined_0
+  - first:
+      213: 1870018637791271443
+    second: Run_Thunder_Combined_1
+  - first:
+      213: 627952513014255488
+    second: Run_Thunder_Combined_2
+  - first:
+      213: 7599511478365870234
+    second: Run_Thunder_Combined_3
+  - first:
+      213: -7834722838440366914
+    second: Run_Thunder_Combined_4
+  - first:
+      213: 5042232103460815733
+    second: Run_Thunder_Combined_5
+  - first:
+      213: 6217498921836840039
+    second: Run_Thunder_Combined_6
+  - first:
+      213: 3882057799750596414
+    second: Run_Thunder_Combined_7
+  - first:
+      213: -3219538590764623077
+    second: Run_Thunder_Combined_8
+  - first:
+      213: 1273406458416160517
+    second: Run_Thunder_Combined_9
+  - first:
+      213: 5480903407070516505
+    second: Run_Thunder_Combined_10
+  - first:
+      213: 283861136775810665
+    second: Run_Thunder_Combined_11
+  - first:
+      213: 857458410384465448
+    second: Run_Thunder_Combined_12
+  - first:
+      213: 283611376147527799
+    second: Run_Thunder_Combined_13
+  - first:
+      213: -1052468986059607827
+    second: Run_Thunder_Combined_14
+  - first:
+      213: -7421274137307586730
+    second: Run_Thunder_Combined_15
+  - first:
+      213: -3890324341799648048
+    second: Run_Thunder_Combined_16
+  - first:
+      213: -6386476326881437932
+    second: Run_Thunder_Combined_17
+  - first:
+      213: -3300184878006738143
+    second: Run_Thunder_Combined_18
+  - first:
+      213: -5547843869331296013
+    second: Run_Thunder_Combined_19
+  - first:
+      213: -7013053994053536454
+    second: Run_Thunder_Combined_20
+  - first:
+      213: -8681571426913647524
+    second: Run_Thunder_Combined_21
+  - first:
+      213: -6663939718685656055
+    second: Run_Thunder_Combined_22
+  - first:
+      213: -1827909237072662921
+    second: Run_Thunder_Combined_23
+  - first:
+      213: 3545166159565023437
+    second: Run_Thunder_Combined_24
+  - first:
+      213: 1401838905660931650
+    second: Run_Thunder_Combined_25
+  - first:
+      213: 8979251083823932668
+    second: Run_Thunder_Combined_26
+  - first:
+      213: -1882258358700996901
+    second: Run_Thunder_Combined_27
+  - first:
+      213: -8453442240075704625
+    second: Run_Thunder_Combined_28
+  - first:
+      213: -7750551010083649446
+    second: Run_Thunder_Combined_29
+  - first:
+      213: 8021356443406200976
+    second: Run_Thunder_Combined_30
+  - first:
+      213: -7118991955041575589
+    second: Run_Thunder_Combined_31
+  - first:
+      213: 1521750342545197504
+    second: Run_Thunder_Combined_32
+  - first:
+      213: -3219884420451289251
+    second: Run_Thunder_Combined_33
+  - first:
+      213: -2751704735922089997
+    second: Run_Thunder_Combined_34
+  - first:
+      213: 1735766324625453022
+    second: Run_Thunder_Combined_35
+  - first:
+      213: 3661835164771765994
+    second: Run_Thunder_Combined_36
+  - first:
+      213: -9106024654730351399
+    second: Run_Thunder_Combined_37
+  - first:
+      213: -6025496163634965865
+    second: Run_Thunder_Combined_38
+  - first:
+      213: -2162856061128887011
+    second: Run_Thunder_Combined_39
+  - first:
+      213: 5762291433534436229
+    second: Run_Thunder_Combined_40
+  - first:
+      213: 8407784036314747116
+    second: Run_Thunder_Combined_41
+  - first:
+      213: -3157385409639386797
+    second: Run_Thunder_Combined_42
+  - first:
+      213: 2243101037496294771
+    second: Run_Thunder_Combined_43
+  - first:
+      213: 8812833574468312223
+    second: Run_Thunder_Combined_44
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 13068
+        width: 1568
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b22b88a180734d3fb4c9743fecf6084
+      internalID: -7059942292019315384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_1
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 13025
+        width: 1554
+        height: 1217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b24771a80004baeae5255d9c866a95
+      internalID: 1870018637791271443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_2
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 12927
+        width: 1455
+        height: 1308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8027e9e47e9447c9a9982dccfd62f5d
+      internalID: 627952513014255488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_3
+      rect:
+        serializedVersion: 2
+        x: 5587
+        y: 12857
+        width: 1321
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a23ff8140664f32ba4ff11c40678e0
+      internalID: 7599511478365870234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_4
+      rect:
+        serializedVersion: 2
+        x: 7386
+        y: 12829
+        width: 1280
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d5e44917c0d484abc97883aa6fb91f
+      internalID: -7834722838440366914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 11218
+        width: 1272
+        height: 1414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9420055ef8bfc49a6af7d6beb4cb7b25
+      internalID: 5042232103460815733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_6
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 11243
+        width: 1217
+        height: 1403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16113bec153eb4af0953f9c1e01f1d57
+      internalID: 6217498921836840039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_7
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 11296
+        width: 1166
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1100589dee9e440d391f53ffca5a5e35
+      internalID: 3882057799750596414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_8
+      rect:
+        serializedVersion: 2
+        x: 5657
+        y: 11310
+        width: 1153
+        height: 1427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef603793a12c64907b355c652b0264e8
+      internalID: -3219538590764623077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_9
+      rect:
+        serializedVersion: 2
+        x: 7492
+        y: 11239
+        width: 1132
+        height: 1505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a0fb9c235e94fe281d561ef8d1bc6c
+      internalID: 1273406458416160517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 9664
+        width: 1076
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a612c812cf544d3b91e17f77f5bae8
+      internalID: 5480903407070516505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_11
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 9672
+        width: 1013
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935427445b76f44f5b253c5af02ac64d
+      internalID: 283861136775810665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_12
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 9650
+        width: 963
+        height: 1526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435634277cc504c9982080669b6af70b
+      internalID: 857458410384465448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_13
+      rect:
+        serializedVersion: 2
+        x: 5861
+        y: 9615
+        width: 914
+        height: 1540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21641648da1404f889e913e12fc989cf
+      internalID: 283611376147527799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_14
+      rect:
+        serializedVersion: 2
+        x: 7583
+        y: 9615
+        width: 949
+        height: 1533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3998194390e940b4a35947d0501abc4
+      internalID: -1052468986059607827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 8068
+        width: 1026
+        height: 1477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fb14b91706d48efaf3326f81d7d241
+      internalID: -7421274137307586730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_16
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 8132
+        width: 1181
+        height: 1385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ad4c88a4dc04132960dd3253369787
+      internalID: -3890324341799648048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_17
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 8132
+        width: 1294
+        height: 1371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da71f890da1d24b4894f2b57c7af0eb3
+      internalID: -6386476326881437932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_18
+      rect:
+        serializedVersion: 2
+        x: 5474
+        y: 8146
+        width: 1364
+        height: 1357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc95515d9ce664fb99b1c22cade042f8
+      internalID: -3300184878006738143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_19
+      rect:
+        serializedVersion: 2
+        x: 7260
+        y: 8160
+        width: 1406
+        height: 1336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a431b2c5fd2427195b992d84fb3df0
+      internalID: -5547843869331296013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 6557
+        width: 1441
+        height: 1336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6ba1749e29b4a05981c04e9a1d4d6a
+      internalID: -7013053994053536454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_21
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 6564
+        width: 1462
+        height: 1322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389f54f96740a484fbff671c034a25bd
+      internalID: -8681571426913647524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_22
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 6543
+        width: 1476
+        height: 1342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a1ed525df8c415aaa35d1a256327f8
+      internalID: -6663939718685656055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_23
+      rect:
+        serializedVersion: 2
+        x: 5446
+        y: 6550
+        width: 1434
+        height: 1328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70ac698d3a914cfaa5f572f9151d7bc
+      internalID: -1827909237072662921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_24
+      rect:
+        serializedVersion: 2
+        x: 7281
+        y: 6514
+        width: 1357
+        height: 1357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27daea7d685a415e8f9d86f585cb934
+      internalID: 3545166159565023437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 4911
+        width: 1350
+        height: 1357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c60211c568914e399ec003ac10728a4
+      internalID: 1401838905660931650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_26
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 4918
+        width: 1364
+        height: 1343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4466f3272337240d58c7e07b23e44bed
+      internalID: 8979251083823932668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_27
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 4897
+        width: 1315
+        height: 1364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7471d99fb72747bb8f56780b8b4659f
+      internalID: -1882258358700996901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_28
+      rect:
+        serializedVersion: 2
+        x: 5558
+        y: 4883
+        width: 1230
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3955c7836f58e45ebae2d8dbfffdea52
+      internalID: -8453442240075704625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_29
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 4883
+        width: 1125
+        height: 1371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfb732a4fe894f4ea4c33f14f246ae0
+      internalID: -7750551010083649446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3280
+        width: 1061
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc238f7d65c4641dd804015d275c2a73
+      internalID: 8021356443406200976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_31
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 3280
+        width: 1005
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f8b34b14ecc447fa3394f797895ba7
+      internalID: -7118991955041575589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_32
+      rect:
+        serializedVersion: 2
+        x: 3934
+        y: 3280
+        width: 942
+        height: 1385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325f42772d756443a935528b8d85764e
+      internalID: 1521750342545197504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_33
+      rect:
+        serializedVersion: 2
+        x: 5790
+        y: 3294
+        width: 893
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aca5105fe554f6685a52b835dc1e3d
+      internalID: -3219884420451289251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_34
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 3294
+        width: 815
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2e9f05cc4f44da9a7fa4c1b943c36d
+      internalID: -2751704735922089997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_35
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1677
+        width: 871
+        height: 1455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852067d8000184dddb299769bbb788f5
+      internalID: 1735766324625453022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_36
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1663
+        width: 964
+        height: 1483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc9f7e48b03e4a1d9238b96357f4927
+      internalID: 3661835164771765994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_37
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 1670
+        width: 1090
+        height: 1476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc87360440864206a47b6180bebc60e
+      internalID: -9106024654730351399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_38
+      rect:
+        serializedVersion: 2
+        x: 5699
+        y: 1649
+        width: 1216
+        height: 1497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835fd33dd2a0e4c798e144ab9e509617
+      internalID: -6025496163634965865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_39
+      rect:
+        serializedVersion: 2
+        x: 7443
+        y: 1670
+        width: 1328
+        height: 1483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0fbbf7bb98947c8afd9d57a3568e70
+      internalID: -2162856061128887011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 81
+        width: 1421
+        height: 1469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d39028c93844761ac465ab6e297156
+      internalID: 5762291433534436229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_41
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 116
+        width: 1484
+        height: 1420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5877525a6e6a748e592f7c08c7fe0203
+      internalID: 8407784036314747116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_42
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 165
+        width: 1533
+        height: 1343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae73a1dc531c54d0589a3d46c81be7c8
+      internalID: -3157385409639386797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_43
+      rect:
+        serializedVersion: 2
+        x: 5531
+        y: 222
+        width: 1560
+        height: 1258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821d4c8cb56d94ee6b5f0b1545bbafe6
+      internalID: 2243101037496294771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Thunder_Combined_44
+      rect:
+        serializedVersion: 2
+        x: 7330
+        y: 257
+        width: 1568
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c87d6f091c1f45bc9b4cb3368256f45
+      internalID: 8812833574468312223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

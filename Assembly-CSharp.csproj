@@ -65,8 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\Character\Enemy\Enemytest.cs" />
     <Compile Include="Assets\Particles\StartMenu\MoveTexture.cs" />
-    <Compile Include="Assets\Particles\StartMenu\NextLevel.cs" />
-    <Compile Include="Assets\Player\Animation\Playertest.cs" />
+    <Compile Include="Assets\Player\Playertest.cs" />
     <Compile Include="Assets\Script\Block.cs" />
     <Compile Include="Assets\Script\Door.cs" />
     <Compile Include="Assets\Script\Enemy.cs" />
@@ -75,6 +74,7 @@
     <Compile Include="Assets\Script\FluteTester.cs" />
     <Compile Include="Assets\Script\LifeEnergy.cs" />
     <Compile Include="Assets\Script\ModeChange.cs" />
+    <Compile Include="Assets\Script\NextLevel.cs" />
     <Compile Include="Assets\Script\PlayerController.cs" />
     <Compile Include="Assets\Script\Shot.cs" />
     <Reference Include="Unity.Timeline.Editor">
