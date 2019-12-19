@@ -32,8 +32,12 @@ public class PlayerController : MonoBehaviour {
     Animator characterAnimation;
     ModeChange modeChange;
 
+    [SerializeField]
+    Image howto;
+
     void Start()
     {
+        howto.enabled = false;
         rb = GetComponent<Rigidbody2D>();
         characterAnimation = GetComponent<Animator>();
         modeChange = GetComponent<ModeChange>();
@@ -48,7 +52,13 @@ public class PlayerController : MonoBehaviour {
         ChangeState();
         HitEnemy();
         ChangeAnimation();
-
+        if (Input.GetKey(KeyCode.Z))
+        {
+            howto.enabled = true;
+        }else if (Input.GetKey(KeyCode.X))
+        {
+            howto.enabled = false;
+        }
 
     }
 

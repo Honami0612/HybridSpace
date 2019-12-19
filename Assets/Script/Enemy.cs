@@ -19,6 +19,9 @@ public class Enemy : MonoBehaviour {
     private Rigidbody2D rb;
     private Vector3 pos;
 
+    public AudioClip die;
+    private AudioSource audioSource;
+
     // Use this for initialization
     void Start () {
         field = this.gameObject;
@@ -27,6 +30,7 @@ public class Enemy : MonoBehaviour {
         modeChange = GameObject.FindWithTag("Player").GetComponent<ModeChange>();
         enemyAnimator = this.gameObject.GetComponent<Animator>();
         state = "Idle";
+        audioSource = gameObject.GetComponent<AudioSource>();
     }
 	
 	// Update is called once per frame
@@ -43,7 +47,9 @@ public class Enemy : MonoBehaviour {
         {
             if (enemyAttribute == playerMode)
             {
-                Destroy(this.gameObject);
+                audioSource.clip = die;
+                audioSource.Play();
+                StartCoroutine(SoundWait());
             }
            
         }
@@ -89,4 +95,10 @@ public class Enemy : MonoBehaviour {
         yield return new WaitForSeconds(1f);
         state = "Idle";
     }
+    IEnumerator SoundWait()
+    {
+        yield return new WaitForSeconds(2f);
+        Destroy(this.gameObject);
+    }
+
 }
