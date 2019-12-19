@@ -3547,7 +3547,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   portName: /dev/cu.usbmodem1411
-  useFlute: 1
+  useFlute: 0
   audioSourceC: {fileID: 928118351}
   audioSourceD: {fileID: 928118350}
   audioSourceE: {fileID: 928118349}
