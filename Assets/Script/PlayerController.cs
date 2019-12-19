@@ -114,7 +114,7 @@ public class PlayerController : MonoBehaviour {
                 rb.AddForce(transform.up * jumpForce);
                 isGround = false;
             }
-            if (Input.GetKeyDown(KeyCode.W) || Flute.D && Flute.A_down)
+            if (Input.GetKeyDown(KeyCode.Q) || Flute.D && Flute.A_down)
             {
                 //bigjump
                 state = "Jump";// "Jump";
@@ -173,7 +173,7 @@ public class PlayerController : MonoBehaviour {
 
    void HitEnemy()
     {
-        if (Input.GetKeyDown(KeyCode.C)|| Flute.C && Flute.B_down)
+        if (Input.GetKeyDown(KeyCode.C)|| Flute.C && Flute.B_down || Flute.D && Flute.B_down)
         {
            
             Instantiate(ball, new Vector3(this.gameObject.transform.position.x + 2.5f, this.gameObject.transform.position.y, 0), Quaternion.identity);
