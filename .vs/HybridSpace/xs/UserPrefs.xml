@@ -1,13 +1,14 @@
 ﻿<Properties StartupConfiguration="{96878E7D-DDE8-71C2-AFD4-7261CEAF8BD8}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Door.cs">
     <Files>
       <File FileName="Assets/Script/PlayerController.cs" Line="60" Column="35" />
-      <File FileName="Assets/Script/Shot.cs" Line="89" Column="20" />
-      <File FileName="Assets/Script/ModeChange.cs" />
-      <File FileName="Assets/Script/Enemy.cs" Line="100" Column="42" />
+      <File FileName="Assets/Script/Shot.cs" />
+      <File FileName="Assets/Script/ModeChange.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Enemy.cs" />
       <File FileName="Assets/Script/Flute.cs" Line="218" Column="1" />
       <File FileName="Assets/Character/Enemy/Enemytest.cs" />
       <File FileName="Assets/Particles/StartMenu/NextLevel.cs" />
+      <File FileName="Assets/Script/Door.cs" Line="40" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +16,7 @@
           <Node name="HybridSpace" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Script" expanded="True">
-                <Node name="PlayerController.cs" selected="True" />
+                <Node name="Door.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -25,7 +26,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="474280d4-604d-446f-af5e-dedee9ce2bbf" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1bcba5a8-2704-4146-b6af-145f8b677aca" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
