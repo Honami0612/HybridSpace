@@ -5,8 +5,8 @@ using UnityEngine.UI;
 
 public class Enemy : MonoBehaviour {
 
-    [SerializeField]
-    Text enemyMode;
+    //[SerializeField]
+    //Text enemyMode;
 
     public int enemyAttribute;
     private int playerMode;
@@ -19,21 +19,24 @@ public class Enemy : MonoBehaviour {
     private Rigidbody2D rb;
     private Vector3 pos;
 
+    public AudioClip die;
+    private AudioSource audioSource;
+
     // Use this for initialization
     void Start () {
         field = this.gameObject;
         rb = GetComponent<Rigidbody2D>();
         pos = field.transform.position;
         modeChange = GameObject.FindWithTag("Player").GetComponent<ModeChange>();
-        enemyAnimator = GetComponent<Animator>();
+        enemyAnimator = this.gameObject.GetComponent<Animator>();
         state = "Idle";
+        audioSource = gameObject.GetComponent<AudioSource>();
     }
 	
 	// Update is called once per frame
 	void Update () {
 		playerMode=modeChange.nowNumber;
         ChangeAnimation();
-        enemyMode.text = pos.x.ToString();
         Move();
         
 	}
@@ -44,7 +47,9 @@ public class Enemy : MonoBehaviour {
         {
             if (enemyAttribute == playerMode)
             {
-                Destroy(this.gameObject);
+                audioSource.clip = die;
+                audioSource.Play();
+                StartCoroutine(SoundWait());
             }
            
         }
@@ -78,9 +83,22 @@ public class Enemy : MonoBehaviour {
                 enemyAnimator.SetBool("Idle", false);
                 enemyAnimator.SetBool("Walk", false);
                 enemyAnimator.SetBool("Attack", true);
+                StartCoroutine(Wait());
                 break;
 
 
         }
     }
+
+    IEnumerator Wait()
+    {
+        yield return new WaitForSeconds(1f);
+        state = "Idle";
+    }
+    IEnumerator SoundWait()
+    {
+        yield return new WaitForSeconds(2f);
+        Destroy(this.gameObject);
+    }
+
 }

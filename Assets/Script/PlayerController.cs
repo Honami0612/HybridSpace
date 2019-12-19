@@ -4,22 +4,18 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.IO.Ports;
 
-//Move()の大ジャンプとジャンプのフルートナンバー設定
 
 public class PlayerController : MonoBehaviour {
     //[SerializeField]
-    //Text checkText;
+    //Text check;
 
     Rigidbody2D rb;
     
     [SerializeField]
     float jumpForce = 390.0f;       
-    float jumpThreshold = 2.0f;    
-    [SerializeField]
-    float runForce = 30.0f;      
+    float jumpThreshold = 2.0f;
     [SerializeField]
     float runSpeed = 0.5f;       
-    float runThreshold = 2.0f;   
     bool isGround = true;        
     int key = 0;                 
 
@@ -30,41 +26,53 @@ public class PlayerController : MonoBehaviour {
 
     [SerializeField]
     GameObject ball;
-    [SerializeField]
-    GameObject mator;
+    //[SerializeField]
+    //GameObject mator;
 
     Animator characterAnimation;
+    ModeChange modeChange;
+
+    [SerializeField]
+    Image howto;
 
     void Start()
     {
+        howto.enabled = false;
         rb = GetComponent<Rigidbody2D>();
         characterAnimation = GetComponent<Animator>();
+        modeChange = GetComponent<ModeChange>();
     }
 
     void Update()
     {
-        
 
-        GetInputKey();        
+        GetInputKey();
+        Move();
+
         ChangeState();
         HitEnemy();
         ChangeAnimation();
+        if (Input.GetKey(KeyCode.Z))
+        {
+            howto.enabled = true;
+        }else if (Input.GetKey(KeyCode.X))
+        {
+            howto.enabled = false;
+        }
 
     }
 
     private void FixedUpdate()
     {
-        Move();       
+          
     }
 
     void GetInputKey()
     {
             key = 0;
         if (Input.GetKey(KeyCode.D) || Flute.C && Flute.G)
-        {
-            //print("heyYo");
+        { 
             key = 1;
-
         }
             
         if (Input.GetKey(KeyCode.A) || Flute.C && Flute.F)
@@ -82,13 +90,10 @@ public class PlayerController : MonoBehaviour {
         {
             if (key != 0)
             {
-                
                     state = "Run";
-              
             }
             else
             {
-                
                 state = "Idle";
             }
         }
@@ -115,15 +120,14 @@ public class PlayerController : MonoBehaviour {
             if (Input.GetKeyDown(KeyCode.Space) || Flute.C && Flute.A_down)
             {
                 //jump
-                state = "Idle";//"Jump";
+                state = "Jump";//"Jump";
                 rb.AddForce(transform.up * jumpForce);
-                //jumpCount++;
                 isGround = false;
             }
-            if (Input.GetKeyDown(KeyCode.W) || Flute.D && Flute.A_down)
+            if (Input.GetKeyDown(KeyCode.Q) || Flute.D && Flute.A_down)
             {
                 //bigjump
-                state = "Idle";// "Jump";
+                state = "Jump";// "Jump";
                 rb.AddForce(transform.up * 700f) ;
                 isGround = false;
             }
@@ -145,9 +149,7 @@ public class PlayerController : MonoBehaviour {
         }
         
         rb.velocity = new Vector2(key * runSpeed, rb.velocity.y);
-        //Debug.Log("Walking like shit");
-        //Debug.Log(key + "<key runspeed>" + runSpeed);
-        //Debug.Log($"key = {key}　Runspeed = {runSpeed}");
+        
 
     }
 
@@ -156,30 +158,36 @@ public class PlayerController : MonoBehaviour {
         switch (state)
         {
             case "Idle":
-                characterAnimation.SetBool("Idle", true);
+                characterAnimation.SetInteger("Idle", modeChange.nowNumber);
+                characterAnimation.SetBool("Idlee", true);
                 characterAnimation.SetBool("Run", false);
-               
+                characterAnimation.SetBool("Jump", false);
                 break;
-            case "Run":
-                characterAnimation.SetBool("Idle", false);
-                characterAnimation.SetBool("Run", true);
-                transform.localScale = new Vector3(key*0.3f, 0.3f, 0.3f);
 
+            case "Run":
+                characterAnimation.SetBool("Idlee", false);
+                characterAnimation.SetBool("Run", true);
+                characterAnimation.SetBool("Jump", false);
+                transform.localScale = new Vector3(key * 0.3f, 0.3f, 0.3f);
+                break;
+
+            case "Jump":
+                characterAnimation.SetBool("Jump", true);
+                characterAnimation.SetBool("Idlee", false);
+                characterAnimation.SetBool("Run", false);
                 
                 break;
+
         }
     }
 
    void HitEnemy()
     {
-        if (Input.GetKeyDown(KeyCode.C)|| Flute.C && Flute.B_down)
+        if (Input.GetKeyDown(KeyCode.C)|| Flute.C && Flute.B_down || Flute.D && Flute.B_down)
         {
-            //if (transform.localScale.x = 0.3f)
-            //{
-
-            //}
+           
             Instantiate(ball, new Vector3(this.gameObject.transform.position.x + 2.5f, this.gameObject.transform.position.y, 0), Quaternion.identity);
-            Instantiate(mator, new Vector3(this.gameObject.transform.position.x + 2.5f, this.gameObject.transform.position.y, 0), Quaternion.identity);
+            //Instantiate(mator, new Vector3(this.gameObject.transform.position.x + 2.5f, this.gameObject.transform.position.y, 0), Quaternion.identity);
         }
        
     }

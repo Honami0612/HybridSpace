@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 716ea2c8b8d0a4353a134ade297a1529
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2650428757082997182
+    second: MC_Run_Wind_Combined_0
+  - first:
+      213: 3142316816259863130
+    second: MC_Run_Wind_Combined_1
+  - first:
+      213: 645857450764969919
+    second: MC_Run_Wind_Combined_2
+  - first:
+      213: 95408547467222293
+    second: MC_Run_Wind_Combined_3
+  - first:
+      213: 5810872587071272205
+    second: MC_Run_Wind_Combined_4
+  - first:
+      213: -7246771728081750281
+    second: MC_Run_Wind_Combined_5
+  - first:
+      213: -6136943878049878595
+    second: MC_Run_Wind_Combined_6
+  - first:
+      213: 1247304950129439095
+    second: MC_Run_Wind_Combined_7
+  - first:
+      213: -8415921999071765295
+    second: MC_Run_Wind_Combined_8
+  - first:
+      213: -865945929228520532
+    second: MC_Run_Wind_Combined_9
+  - first:
+      213: 5716821173612443967
+    second: MC_Run_Wind_Combined_10
+  - first:
+      213: -8207706012794809043
+    second: MC_Run_Wind_Combined_11
+  - first:
+      213: 7399787199993093665
+    second: MC_Run_Wind_Combined_12
+  - first:
+      213: -5777351582069990708
+    second: MC_Run_Wind_Combined_13
+  - first:
+      213: 2180150027729731574
+    second: MC_Run_Wind_Combined_14
+  - first:
+      213: -6411562870178733047
+    second: MC_Run_Wind_Combined_15
+  - first:
+      213: 3896869511901635834
+    second: MC_Run_Wind_Combined_16
+  - first:
+      213: 6483132710331815781
+    second: MC_Run_Wind_Combined_17
+  - first:
+      213: 3317958158881694865
+    second: MC_Run_Wind_Combined_18
+  - first:
+      213: -6352339496396972679
+    second: MC_Run_Wind_Combined_19
+  - first:
+      213: -7551103607262488822
+    second: MC_Run_Wind_Combined_20
+  - first:
+      213: -4272004313520524356
+    second: MC_Run_Wind_Combined_21
+  - first:
+      213: 5262141757484921613
+    second: MC_Run_Wind_Combined_22
+  - first:
+      213: -4452167702729027770
+    second: MC_Run_Wind_Combined_23
+  - first:
+      213: -8063231016598882012
+    second: MC_Run_Wind_Combined_24
+  - first:
+      213: 1513978373528721601
+    second: MC_Run_Wind_Combined_25
+  - first:
+      213: 7866964121253024136
+    second: MC_Run_Wind_Combined_26
+  - first:
+      213: -3667629598202709420
+    second: MC_Run_Wind_Combined_27
+  - first:
+      213: 7505883244761244188
+    second: MC_Run_Wind_Combined_28
+  - first:
+      213: 1632816419055408720
+    second: MC_Run_Wind_Combined_29
+  - first:
+      213: -5019770347362921971
+    second: MC_Run_Wind_Combined_30
+  - first:
+      213: 4269648463201393019
+    second: MC_Run_Wind_Combined_31
+  - first:
+      213: -7738120858585187341
+    second: MC_Run_Wind_Combined_32
+  - first:
+      213: 886980831103967566
+    second: MC_Run_Wind_Combined_33
+  - first:
+      213: -5115348663210728833
+    second: MC_Run_Wind_Combined_34
+  - first:
+      213: -7458011973102662111
+    second: MC_Run_Wind_Combined_35
+  - first:
+      213: 8552081512218217578
+    second: MC_Run_Wind_Combined_36
+  - first:
+      213: -7203702638584491392
+    second: MC_Run_Wind_Combined_37
+  - first:
+      213: -5111259531210619158
+    second: MC_Run_Wind_Combined_38
+  - first:
+      213: -6235980587714154186
+    second: MC_Run_Wind_Combined_39
+  - first:
+      213: -6096407600853673401
+    second: MC_Run_Wind_Combined_40
+  - first:
+      213: -3712665997668906854
+    second: MC_Run_Wind_Combined_41
+  - first:
+      213: 8220298129403757843
+    second: MC_Run_Wind_Combined_42
+  - first:
+      213: 5294500789544878706
+    second: MC_Run_Wind_Combined_43
+  - first:
+      213: 6468720135066084340
+    second: MC_Run_Wind_Combined_44
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 13068
+        width: 1568
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8de4203aa00481c91aeac5edf43168
+      internalID: -2650428757082997182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_1
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 13025
+        width: 1554
+        height: 1216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6983612d472234bccbccf684c7fe7cb9
+      internalID: 3142316816259863130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_2
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 12927
+        width: 1455
+        height: 1304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbe77f242036416cb76b90b20ec7cb2
+      internalID: 645857450764969919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_3
+      rect:
+        serializedVersion: 2
+        x: 5587
+        y: 12857
+        width: 1321
+        height: 1371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3777e6e0a6c624158a2662d1a55a1c8a
+      internalID: 95408547467222293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_4
+      rect:
+        serializedVersion: 2
+        x: 7386
+        y: 12829
+        width: 1280
+        height: 1399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a9be6dc898a41d6907f19f2213a801
+      internalID: 5810872587071272205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 11218
+        width: 1272
+        height: 1414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dc676c05ff942fdac9dae6c1f4cf09
+      internalID: -7246771728081750281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_6
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 11243
+        width: 1217
+        height: 1403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771f12e40421241a5a5a6c0b78cb02e5
+      internalID: -6136943878049878595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_7
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 11296
+        width: 1166
+        height: 1399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25220f50730a48018460b2c5e423a56
+      internalID: 1247304950129439095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_8
+      rect:
+        serializedVersion: 2
+        x: 5657
+        y: 11310
+        width: 1153
+        height: 1427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a826ed01ac9493ba8f380754049c76
+      internalID: -8415921999071765295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_9
+      rect:
+        serializedVersion: 2
+        x: 7492
+        y: 11239
+        width: 1132
+        height: 1505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee16c5a430aa14f0d9b8eb96001f1253
+      internalID: -865945929228520532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 9664
+        width: 1076
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ce07f0e5fd149349f9bd91b894ea94
+      internalID: 5716821173612443967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_11
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 9672
+        width: 1013
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbf01873ceaa454f9bab0ab23a8a423
+      internalID: -8207706012794809043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_12
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 9650
+        width: 963
+        height: 1526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d421c9dc17d9438f91c60fcab81d652
+      internalID: 7399787199993093665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_13
+      rect:
+        serializedVersion: 2
+        x: 5861
+        y: 9615
+        width: 914
+        height: 1540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2451fce81978745ee8b8dfab4eb0943d
+      internalID: -5777351582069990708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_14
+      rect:
+        serializedVersion: 2
+        x: 7583
+        y: 9615
+        width: 949
+        height: 1533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ae1fcb837b74ddd8c389e666fbfcc5
+      internalID: 2180150027729731574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 8068
+        width: 1026
+        height: 1477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545b8c4fb67d94c8a8e4342d0a0f15dc
+      internalID: -6411562870178733047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_16
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 8132
+        width: 1181
+        height: 1385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cf0e5089bfd48948751632cb19fec5
+      internalID: 3896869511901635834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_17
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 8132
+        width: 1294
+        height: 1364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0fd7346e19a44d5bfa541f1f361183
+      internalID: 6483132710331815781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_18
+      rect:
+        serializedVersion: 2
+        x: 5474
+        y: 8146
+        width: 1364
+        height: 1357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f59d85fe7864950a4fb1f3595f47c6
+      internalID: 3317958158881694865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_19
+      rect:
+        serializedVersion: 2
+        x: 7260
+        y: 8160
+        width: 1406
+        height: 1336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9dc8e81f2414ce5a26ec3eaabf79d8
+      internalID: -6352339496396972679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 6557
+        width: 1441
+        height: 1329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa6d86c01f8949f0b6474e0375928d6
+      internalID: -7551103607262488822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_21
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 6564
+        width: 1462
+        height: 1322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501f56fade4e542f3a31c00ae53239fb
+      internalID: -4272004313520524356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_22
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 6543
+        width: 1476
+        height: 1335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea47d2a4283442d58170f563ca06191
+      internalID: 5262141757484921613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_23
+      rect:
+        serializedVersion: 2
+        x: 5446
+        y: 6550
+        width: 1434
+        height: 1321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a9c55f2a98348bb995d2e2c5c86a78
+      internalID: -4452167702729027770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_24
+      rect:
+        serializedVersion: 2
+        x: 7281
+        y: 6514
+        width: 1357
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a3a47e0e264470fb14c8f4a6478b31
+      internalID: -8063231016598882012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 4911
+        width: 1350
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed2984c87dc7471c9ba9278ebd6d8ee
+      internalID: 1513978373528721601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_26
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 4918
+        width: 1364
+        height: 1343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea06257e6a73c4937b12b32aaed6813f
+      internalID: 7866964121253024136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_27
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 4897
+        width: 1315
+        height: 1364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb59a5fd9f88e4191a594642b41fca36
+      internalID: -3667629598202709420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_28
+      rect:
+        serializedVersion: 2
+        x: 5558
+        y: 4883
+        width: 1230
+        height: 1371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ca9b2c74f644eca94706a4684471ea
+      internalID: 7505883244761244188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_29
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 4883
+        width: 1125
+        height: 1371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39790769e39364306954cb1108b37b76
+      internalID: 1632816419055408720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3280
+        width: 1061
+        height: 1371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a61745ca0cf4d538769b03d5fe81ae
+      internalID: -5019770347362921971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_31
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 3280
+        width: 1005
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df93f7b9714f7442fbed321540a9b220
+      internalID: 4269648463201393019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_32
+      rect:
+        serializedVersion: 2
+        x: 3934
+        y: 3280
+        width: 942
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5211e0e1240f54d1e8f3081f9c922229
+      internalID: -7738120858585187341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_33
+      rect:
+        serializedVersion: 2
+        x: 5790
+        y: 3294
+        width: 893
+        height: 1371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbee898d1a9964132b82dd2c036e2e07
+      internalID: 886980831103967566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_34
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 3294
+        width: 815
+        height: 1405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ebba73cefa44eb491a8623a751b122
+      internalID: -5115348663210728833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_35
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1677
+        width: 871
+        height: 1455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91bb014e08ac44ceb5c51205bdf9286
+      internalID: -7458011973102662111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_36
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1663
+        width: 964
+        height: 1476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582878b99010d4dadbde2ec2454a0819
+      internalID: 8552081512218217578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_37
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 1670
+        width: 1090
+        height: 1476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7643b2ce2466044d6bd38859f398105d
+      internalID: -7203702638584491392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_38
+      rect:
+        serializedVersion: 2
+        x: 5699
+        y: 1649
+        width: 1216
+        height: 1497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9314c3193ec9a4a87b1f22f6a23b37dc
+      internalID: -5111259531210619158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_39
+      rect:
+        serializedVersion: 2
+        x: 7443
+        y: 1670
+        width: 1328
+        height: 1476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633f0ef0c1fd54599a851715f5515b35
+      internalID: -6235980587714154186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 81
+        width: 1421
+        height: 1462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f0765ad04b94696a5b037cca5d8308
+      internalID: -6096407600853673401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_41
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 116
+        width: 1484
+        height: 1420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753c2bbb67783415dae357f4be99285b
+      internalID: -3712665997668906854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_42
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 165
+        width: 1533
+        height: 1343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8e0bd88ac7247af9bbda8ec9c2cef6
+      internalID: 8220298129403757843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_43
+      rect:
+        serializedVersion: 2
+        x: 5531
+        y: 222
+        width: 1560
+        height: 1258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d656346bd384c538e052f7c982f0d4
+      internalID: 5294500789544878706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_Run_Wind_Combined_44
+      rect:
+        serializedVersion: 2
+        x: 7330
+        y: 257
+        width: 1568
+        height: 1195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8ba003f451e4f40901b538c5db1b8c
+      internalID: 6468720135066084340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

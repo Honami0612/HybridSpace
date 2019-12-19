@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.SceneManagement;
 
 //Move()のWindModeのフルートナンバー追加
 
@@ -20,10 +19,7 @@ public class ModeChange : MonoBehaviour {
 
     Enemy enemyScript;
 
-    public Image nowLifeImage;
-    [SerializeField]
-    Sprite[] lifeSprite; 
-    public int lifeSpritenumber=0;
+    LifeEnergy lifeEnergy;
     
 
 	void Start () {
@@ -31,8 +27,7 @@ public class ModeChange : MonoBehaviour {
         check.text = "0:Nomal"+" 1:Fire"+ " 2:Thunder"+ "3:Wind\n" + "nowMode:"+modeNumber.ToString();
         enemyScript = GameObject.FindWithTag("Enemy").GetComponent<Enemy>();
         bodyParticle[modeNumber].gameObject.SetActive(true);
-        nowLifeImage = this.GetComponent<Image>();
-
+        lifeEnergy = GameObject.Find("Life").GetComponent<LifeEnergy>();
 
     }
 
@@ -40,11 +35,7 @@ public class ModeChange : MonoBehaviour {
        
         Mode();
         ChangeModeState();
-        if (lifeSpritenumber >= 10)
-        {
-            SceneManager.LoadScene("GameOver");
-            //GameOver
-        }
+       
 
 	}
 
@@ -117,16 +108,11 @@ public class ModeChange : MonoBehaviour {
     {
         if (collision.gameObject.tag == "Enemy")
         {
-           
-            
+
             enemyScript.state = "Attack";
-            Debug.LogError("Hit" + lifeSpritenumber);
-
-            nowLifeImage.sprite = lifeSprite[lifeSpritenumber];
-            lifeSpritenumber++;
-
+            lifeEnergy.ChangeSprite();
+           
             StartCoroutine(EnemyMode());
-
 
         }
     }

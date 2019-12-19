@@ -53,7 +53,7 @@ public class Door : MonoBehaviour {
             SceneManager.LoadScene("Tutorial2");
         }else if (SceneManager.GetActiveScene().name == "Tutorial2")
         {
-            SceneManager.LoadScene("Tutorial1");
+            SceneManager.LoadScene("Level");
             
             //GameStart
         }

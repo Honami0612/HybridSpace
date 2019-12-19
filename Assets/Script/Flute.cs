@@ -112,29 +112,38 @@ public class Flute : MonoBehaviour
                 int bite = sp.ReadByte();
                 //print(bite);
 
-                switch (bite)
-                {
-                    case 1: C = true; C_down = true; print("C"); break;
-                    case 2: D = true; D_down = true; print("D"); break;
-                    case 3: E = true; E_down = true; print("E"); break;
-                    case 4: F = true; F_down = true; print("F"); break;
-                    case 5: G = true; G_down = true; print("G"); break;
-                    case 6: A = true; A_down = true; print("A"); break;
-                    case 7: B = true; B_down = true; print("B"); break;
+                //if (breath != true && bite == 15) breath = true; print("Breath");
 
-                    case 8: C = false; C_up = true; print("release C"); break;
-                    case 9: D = false; D_up = true; print("release D"); break;
-                    case 10: E = false; E_up = true; print("release E"); break;
-                    case 11: F = false; F_up = true; print("release F"); break;
-                    case 12: G = false; G_up = true; print("release G"); break;
-                    case 13: A = false; A_up = true; print("release A"); break;
-                    case 14: B = false; B_up = true; print("release B"); break;
 
-                    case 15: breath = true; print("Breath"); break;
-                    case 16: breath = false; print("stop breathing"); break;
+                //if (breath == true)
+                //{
+                    switch (bite)
+                    {
+                        case 1: C = true; C_down = true; print("C"); break;
+                        case 2: D = true; D_down = true; print("D"); break;
+                        case 3: E = true; E_down = true; print("E"); break;
+                        case 4: F = true; F_down = true; print("F"); break;
+                        case 5: G = true; G_down = true; print("G"); break;
+                        case 6: A = true; A_down = true; print("A"); break;
+                        case 7: B = true; B_down = true; print("B"); break;
 
-                    default: break;
-                }
+                        case 8: C = false; C_up = true; print("release C"); break;
+                        case 9: D = false; D_up = true; print("release D"); break;
+                        case 10: E = false; E_up = true; print("release E"); break;
+                        case 11: F = false; F_up = true; print("release F"); break;
+                        case 12: G = false; G_up = true; print("release G"); break;
+                        case 13: A = false; A_up = true; print("release A"); break;
+                        case 14: B = false; B_up = true; print("release B"); break;
+
+                        case 15: breath = true; print("Breath"); break;
+                        case 16: breath = false; print("stop breathing"); break;
+
+                        default: break;
+                    }
+
+                //}
+
+
             }
             catch (System.Exception)
             {
@@ -184,6 +193,14 @@ public class Flute : MonoBehaviour
         if (G_down) audioSourceG.PlayOneShot(soundG);
         if (A_down) audioSourceA.PlayOneShot(soundA);
         if (B_down) audioSourceB.PlayOneShot(soundB);
+
+        //if (C_up || !breath) audioSourceC.Stop();
+        //if (D_up || !breath) audioSourceD.Stop();
+        //if (E_up || !breath) audioSourceE.Stop();
+        //if (F_up || !breath) audioSourceF.Stop();
+        //if (G_up || !breath) audioSourceG.Stop();
+        //if (A_up || !breath) audioSourceA.Stop();
+        //if (B_up || !breath) audioSourceB.Stop();
 
         if (C_up) audioSourceC.Stop();
         if (D_up) audioSourceD.Stop();

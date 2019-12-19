@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 6ed4140970eec48e2a0b832b272c779c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7527007679786076031
+    second: Run_Fire_Combined_0
+  - first:
+      213: -5496041014883889296
+    second: Run_Fire_Combined_1
+  - first:
+      213: -8207111549208377057
+    second: Run_Fire_Combined_2
+  - first:
+      213: -1075285587074626606
+    second: Run_Fire_Combined_3
+  - first:
+      213: -377413563424535740
+    second: Run_Fire_Combined_4
+  - first:
+      213: -194764446583083620
+    second: Run_Fire_Combined_5
+  - first:
+      213: 8411964934430769921
+    second: Run_Fire_Combined_6
+  - first:
+      213: 1052033807574128537
+    second: Run_Fire_Combined_7
+  - first:
+      213: 3832998732107260974
+    second: Run_Fire_Combined_8
+  - first:
+      213: 1527466623339780390
+    second: Run_Fire_Combined_9
+  - first:
+      213: 8869383455819898664
+    second: Run_Fire_Combined_10
+  - first:
+      213: 8698500093309565990
+    second: Run_Fire_Combined_11
+  - first:
+      213: 2728137044420706499
+    second: Run_Fire_Combined_12
+  - first:
+      213: 8544054379128919090
+    second: Run_Fire_Combined_13
+  - first:
+      213: 6681616442960216862
+    second: Run_Fire_Combined_14
+  - first:
+      213: -7862320736438952092
+    second: Run_Fire_Combined_15
+  - first:
+      213: -5046669439927943112
+    second: Run_Fire_Combined_16
+  - first:
+      213: -6134130467736186132
+    second: Run_Fire_Combined_17
+  - first:
+      213: 740527345761775888
+    second: Run_Fire_Combined_18
+  - first:
+      213: -4359136431871586112
+    second: Run_Fire_Combined_19
+  - first:
+      213: 1075933407464729583
+    second: Run_Fire_Combined_20
+  - first:
+      213: 3698549539141284653
+    second: Run_Fire_Combined_21
+  - first:
+      213: -4728495638660551384
+    second: Run_Fire_Combined_22
+  - first:
+      213: -6199881943231230319
+    second: Run_Fire_Combined_23
+  - first:
+      213: -6045100581357871957
+    second: Run_Fire_Combined_24
+  - first:
+      213: 6057467086916244774
+    second: Run_Fire_Combined_25
+  - first:
+      213: 7165144044220915282
+    second: Run_Fire_Combined_26
+  - first:
+      213: -7717506975939671502
+    second: Run_Fire_Combined_27
+  - first:
+      213: 7657872903188269894
+    second: Run_Fire_Combined_28
+  - first:
+      213: 4256422975601544264
+    second: Run_Fire_Combined_29
+  - first:
+      213: -3004971137590058231
+    second: Run_Fire_Combined_30
+  - first:
+      213: 5755274478715488986
+    second: Run_Fire_Combined_31
+  - first:
+      213: -8675800080882488860
+    second: Run_Fire_Combined_32
+  - first:
+      213: -9123832897040454960
+    second: Run_Fire_Combined_33
+  - first:
+      213: 382558885740581688
+    second: Run_Fire_Combined_34
+  - first:
+      213: -758730491829824247
+    second: Run_Fire_Combined_35
+  - first:
+      213: -614574558802219363
+    second: Run_Fire_Combined_36
+  - first:
+      213: 6811082003933758145
+    second: Run_Fire_Combined_37
+  - first:
+      213: 1724895247280087480
+    second: Run_Fire_Combined_38
+  - first:
+      213: 7179995668503165068
+    second: Run_Fire_Combined_39
+  - first:
+      213: -2486224645304837712
+    second: Run_Fire_Combined_40
+  - first:
+      213: -2151941409739995548
+    second: Run_Fire_Combined_41
+  - first:
+      213: 3347114116978186806
+    second: Run_Fire_Combined_42
+  - first:
+      213: 7113667594281295555
+    second: Run_Fire_Combined_43
+  - first:
+      213: 2503991464042005733
+    second: Run_Fire_Combined_44
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run_Fire_Combined_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 13068
+        width: 1568
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ac465b2eeaa4bc3b0fb65a0a4b4b29
+      internalID: 7527007679786076031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_1
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 13025
+        width: 1554
+        height: 1217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bc4b1f32a6d41f9a080c8e49c89d33
+      internalID: -5496041014883889296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_2
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 12927
+        width: 1455
+        height: 1308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6164c0ceefbc4ccc89f44f275f24528
+      internalID: -8207111549208377057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_3
+      rect:
+        serializedVersion: 2
+        x: 5587
+        y: 12857
+        width: 1321
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ba6e6ebad664f3d9aadcccca5cf92b
+      internalID: -1075285587074626606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_4
+      rect:
+        serializedVersion: 2
+        x: 7386
+        y: 12829
+        width: 1280
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838d22be290ce4ae9ab63536aad3ef44
+      internalID: -377413563424535740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 11218
+        width: 1272
+        height: 1414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9dc4ef30dd644f88202b7c67e4f6df
+      internalID: -194764446583083620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_6
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 11243
+        width: 1217
+        height: 1403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5476db74ba7df4944b00b1d9f09549ea
+      internalID: 8411964934430769921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_7
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 11296
+        width: 1166
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b289f60f199aa42bb9d9fd715fc0e4a9
+      internalID: 1052033807574128537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_8
+      rect:
+        serializedVersion: 2
+        x: 5657
+        y: 11310
+        width: 1153
+        height: 1427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd1e28b21a3e4639ac0ff1cad4593b8
+      internalID: 3832998732107260974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_9
+      rect:
+        serializedVersion: 2
+        x: 7492
+        y: 11239
+        width: 1132
+        height: 1505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d80c17a26f142d5b2b535331a15090
+      internalID: 1527466623339780390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 9664
+        width: 1076
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e666e199e6b1456597d0d481f86c543
+      internalID: 8869383455819898664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_11
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 9672
+        width: 1013
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a06ba0032e7464790ba475600ad48a
+      internalID: 8698500093309565990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_12
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 9650
+        width: 963
+        height: 1526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcd3a6a74fe440d19823a527cca328a
+      internalID: 2728137044420706499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_13
+      rect:
+        serializedVersion: 2
+        x: 5861
+        y: 9615
+        width: 914
+        height: 1540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33702bf1106154a4ea564487d9184c9c
+      internalID: 8544054379128919090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_14
+      rect:
+        serializedVersion: 2
+        x: 7583
+        y: 9615
+        width: 949
+        height: 1533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc25aede68fe4c2c9c02f5f21ff24d6
+      internalID: 6681616442960216862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 8068
+        width: 1026
+        height: 1477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2ca6841ff1f469d91e74002557ec1b
+      internalID: -7862320736438952092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_16
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 8132
+        width: 1181
+        height: 1392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4044d7aaef30d4193afd2e8c6438b3e0
+      internalID: -5046669439927943112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_17
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 8132
+        width: 1294
+        height: 1371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2510007351d4447a835f1c0a86b35a
+      internalID: -6134130467736186132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_18
+      rect:
+        serializedVersion: 2
+        x: 5474
+        y: 8146
+        width: 1364
+        height: 1357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa43154b5a547f8935bc7377a547c1
+      internalID: 740527345761775888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_19
+      rect:
+        serializedVersion: 2
+        x: 7260
+        y: 8160
+        width: 1406
+        height: 1343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ff7d5c3696f4dbfa3eca111f6add9a
+      internalID: -4359136431871586112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 6557
+        width: 1441
+        height: 1336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c78ef2c47aa4c98bc0de3475cd055f
+      internalID: 1075933407464729583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_21
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 6564
+        width: 1462
+        height: 1322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccf0a96d7db34d978f10d003befbdae
+      internalID: 3698549539141284653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_22
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 6543
+        width: 1476
+        height: 1342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59d55fbb1899432a871192fdb58c2d0
+      internalID: -4728495638660551384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_23
+      rect:
+        serializedVersion: 2
+        x: 5446
+        y: 6550
+        width: 1434
+        height: 1328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90c4d953fbdc4f6cb1e043e2b6bd944
+      internalID: -6199881943231230319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_24
+      rect:
+        serializedVersion: 2
+        x: 7281
+        y: 6514
+        width: 1357
+        height: 1357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0def51be86734defb0bcaa654edce58
+      internalID: -6045100581357871957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 4911
+        width: 1350
+        height: 1357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37e745978d0b4f70ad1f04097b8868f
+      internalID: 6057467086916244774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_26
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 4918
+        width: 1364
+        height: 1343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a628e10ffbfd24c2dada59b5dcef35cf
+      internalID: 7165144044220915282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_27
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 4897
+        width: 1315
+        height: 1364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998d75fc887f247caac910869856252b
+      internalID: -7717506975939671502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_28
+      rect:
+        serializedVersion: 2
+        x: 5558
+        y: 4883
+        width: 1230
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4499e1bd9ef34652ad691ba938b2a98
+      internalID: 7657872903188269894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_29
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 4883
+        width: 1125
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d020bc82e934830909e8ff43a0c866
+      internalID: 4256422975601544264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3280
+        width: 1061
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5efa3951708414b84db3004bb3c24a
+      internalID: -3004971137590058231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_31
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 3280
+        width: 1005
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5bdea03ee29496c8d63664187af32e
+      internalID: 5755274478715488986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_32
+      rect:
+        serializedVersion: 2
+        x: 3934
+        y: 3280
+        width: 942
+        height: 1385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552eb0040eea24f5dbecb07dbbc28bb6
+      internalID: -8675800080882488860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_33
+      rect:
+        serializedVersion: 2
+        x: 5790
+        y: 3294
+        width: 893
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85574e73eaa84464e965874039223f58
+      internalID: -9123832897040454960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_34
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 3294
+        width: 815
+        height: 1406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317b96ee9365b47ebb9349d0a3f73fda
+      internalID: 382558885740581688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_35
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1677
+        width: 871
+        height: 1455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d61266da9d943fa820945a2415a3eb
+      internalID: -758730491829824247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_36
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1663
+        width: 964
+        height: 1483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b1daeb9b45e4d0c976680a92c873c9
+      internalID: -614574558802219363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_37
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 1670
+        width: 1090
+        height: 1476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59542b7099d4a465bae88f69786d9990
+      internalID: 6811082003933758145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_38
+      rect:
+        serializedVersion: 2
+        x: 5699
+        y: 1649
+        width: 1216
+        height: 1497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8af9019303204a0a806cddd7a0e0654
+      internalID: 1724895247280087480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_39
+      rect:
+        serializedVersion: 2
+        x: 7443
+        y: 1670
+        width: 1328
+        height: 1483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcbea825ce1f4a3eaa8c512b35ddc2e
+      internalID: 7179995668503165068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 81
+        width: 1421
+        height: 1469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcec9d0d6d064e91be42045128484a9
+      internalID: -2486224645304837712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_41
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 116
+        width: 1484
+        height: 1420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d232213608a42d5a1740b8d54e36c3
+      internalID: -2151941409739995548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_42
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 165
+        width: 1533
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7266efa705c1e4668b9af6ee1d93889d
+      internalID: 3347114116978186806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_43
+      rect:
+        serializedVersion: 2
+        x: 5531
+        y: 222
+        width: 1560
+        height: 1258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5cf9af737b9481098ba2ff8f9c9aeb
+      internalID: 7113667594281295555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Fire_Combined_44
+      rect:
+        serializedVersion: 2
+        x: 7330
+        y: 257
+        width: 1568
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6291f70f537a641b2becb164b918a72d
+      internalID: 2503991464042005733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,37 +1,21 @@
 ﻿<Properties StartupConfiguration="{96878E7D-DDE8-71C2-AFD4-7261CEAF8BD8}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/ModeChange.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/LifeEnergy.cs">
     <Files>
-      <File FileName="Assets/Script/PlayerController.cs" Line="127" Column="45" />
-      <File FileName="Assets/Script/Shot.cs" Line="1" Column="1" />
-      <File FileName="Assets/Script/ModeChange.cs" Line="75" Column="27" />
-      <File FileName="Assets/Script/Enemy.cs" Line="37" Column="16" />
-      <File FileName="Assets/Script/Door.cs" />
-      <File FileName="Assets/Script/FadeController.cs" />
-      <File FileName="Assets/Script/Block.cs" />
-      <File FileName="Assets/Script/FluteTester.cs" />
-      <File FileName="Assets/Script/Flute.cs" Line="141" Column="43" />
+      <File FileName="Assets/Script/PlayerController.cs" Line="151" Column="1" />
+      <File FileName="Assets/Script/Shot.cs" Line="118" Column="1" />
+      <File FileName="Assets/Script/ModeChange.cs" Line="136" Column="1" />
+      <File FileName="Assets/Script/Enemy.cs" Line="105" Column="1" />
+      <File FileName="Assets/Script/Flute.cs" Line="113" Column="31" />
       <File FileName="Assets/Character/Enemy/Enemytest.cs" />
+      <File FileName="Assets/Particles/StartMenu/NextLevel.cs" Line="17" Column="1" />
+      <File FileName="Assets/Script/Camera/AutoCam.cs" Line="111" Column="1" />
+      <File FileName="Assets/Script/LoadScene.cs" Line="16" Column="10" />
+      <File FileName="Assets/Script/LifeEnergy.cs" Line="1" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="HybridSpace" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Character" expanded="True">
-                <Node name="Enemy" expanded="True" />
-              </Node>
-              <Node name="Script" expanded="True">
-                <Node name="ModeChange.cs" selected="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d08f6dc7-a84c-41e1-88a6-7616a35775a1" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="50f93cbd-def9-4f88-8c7c-00ad29eab4f2" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
