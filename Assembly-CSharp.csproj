@@ -68,14 +68,18 @@
     <Compile Include="Assets\Particles\StartMenu\NextLevel.cs" />
     <Compile Include="Assets\Player\Playertest.cs" />
     <Compile Include="Assets\Script\Block.cs" />
+    <Compile Include="Assets\Script\Camera\AbstractTargetFollower.cs" />
+    <Compile Include="Assets\Script\Camera\AutoCam.cs" />
+    <Compile Include="Assets\Script\Camera\PivotBasedCameraRig.cs" />
     <Compile Include="Assets\Script\Door.cs" />
     <Compile Include="Assets\Script\Enemy.cs" />
     <Compile Include="Assets\Script\FadeController.cs" />
     <Compile Include="Assets\Script\Flute.cs" />
     <Compile Include="Assets\Script\FluteTester.cs" />
     <Compile Include="Assets\Script\LifeEnergy.cs" />
+    <Compile Include="Assets\Script\LoadScene.cs" />
     <Compile Include="Assets\Script\ModeChange.cs" />
-    <Compile Include="Assets\Script\NextLevel.cs" />
+    <Compile Include="Assets\Script\Others\Restarter.cs" />
     <Compile Include="Assets\Script\PlayerController.cs" />
     <Compile Include="Assets\Script\Shot.cs" />
     <Reference Include="Unity.Timeline.Editor">
@@ -339,9 +343,6 @@
     <Reference Include="UnityEngine.XRModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.6f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.Advertisements">
-      <HintPath>/Users/kuwamuranaoya/Desktop/Hybrid_desktop/HybridSpace/Library/PackageCache/com.unity.ads@2.0.8/UnityEngine.Advertisements.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Analytics.Tracker">
       <HintPath>/Users/kuwamuranaoya/Desktop/Hybrid_desktop/HybridSpace/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
@@ -350,9 +351,6 @@
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
       <HintPath>/Users/kuwamuranaoya/Desktop/Hybrid_desktop/HybridSpace/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.Purchasing">
-      <HintPath>/Users/kuwamuranaoya/Desktop/Hybrid_desktop/HybridSpace/Library/PackageCache/com.unity.purchasing@2.0.6/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.6f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
