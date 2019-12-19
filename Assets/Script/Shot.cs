@@ -26,6 +26,9 @@ public class Shot : MonoBehaviour {
     GameObject[] particle;
     int modeNumber;
 
+    AudioSource audioSource;
+    public AudioClip shoot;
+
    
 
 	// Use this for initialization
@@ -36,6 +39,7 @@ public class Shot : MonoBehaviour {
         this.rb = GetComponent<Rigidbody2D>();
         //mator = GameObject.Find("arrow(Clone)");
         modeChange = GameObject.FindWithTag("Player").GetComponent<ModeChange>();
+        audioSource = gameObject.GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -84,6 +88,8 @@ public class Shot : MonoBehaviour {
 
     void MoveShot()
     {
+        //audioSource.clip = shoot;
+        //audioSource.Play();
         modeNumber = modeChange.nowNumber;
         rb.bodyType = RigidbodyType2D.Dynamic;
         GameObject obj = Instantiate(particle[modeNumber], new Vector3(this.gameObject.transform.position.x, this.gameObject.transform.position.y, 1f), Quaternion.identity);
