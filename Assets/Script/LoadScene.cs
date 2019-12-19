@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System.Collections;
 
-public class NextLevel : MonoBehaviour
+public class LoadScene : MonoBehaviour
 {
     [SerializeField]
     Image image;
