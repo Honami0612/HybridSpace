@@ -1,0 +1,1543 @@
+fileFormatVersion: 2
+guid: 780dc9a38aeae4b7da10958cf2fdf9db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1577137112392514951
+    second: MC_idle_fire_Combined_0
+  - first:
+      213: 8982540588113109531
+    second: MC_idle_fire_Combined_1
+  - first:
+      213: -4257642881825543989
+    second: MC_idle_fire_Combined_2
+  - first:
+      213: 8751652303243406335
+    second: MC_idle_fire_Combined_3
+  - first:
+      213: -6378607191122050806
+    second: MC_idle_fire_Combined_4
+  - first:
+      213: 5858547366893496204
+    second: MC_idle_fire_Combined_5
+  - first:
+      213: 8801268740621484140
+    second: MC_idle_fire_Combined_6
+  - first:
+      213: -7112099849118391032
+    second: MC_idle_fire_Combined_7
+  - first:
+      213: -168648393490997585
+    second: MC_idle_fire_Combined_8
+  - first:
+      213: 2970004310557623266
+    second: MC_idle_fire_Combined_9
+  - first:
+      213: -5650149207212722537
+    second: MC_idle_fire_Combined_10
+  - first:
+      213: 6371048565334266108
+    second: MC_idle_fire_Combined_11
+  - first:
+      213: 7701985007024860033
+    second: MC_idle_fire_Combined_12
+  - first:
+      213: 6015278007661536133
+    second: MC_idle_fire_Combined_13
+  - first:
+      213: 84002606469202790
+    second: MC_idle_fire_Combined_14
+  - first:
+      213: -6565445458106419243
+    second: MC_idle_fire_Combined_15
+  - first:
+      213: 6042568457584940731
+    second: MC_idle_fire_Combined_16
+  - first:
+      213: -8258868499773739436
+    second: MC_idle_fire_Combined_17
+  - first:
+      213: 7604196605130339171
+    second: MC_idle_fire_Combined_18
+  - first:
+      213: 1494628744663865130
+    second: MC_idle_fire_Combined_19
+  - first:
+      213: -9172666384283371620
+    second: MC_idle_fire_Combined_20
+  - first:
+      213: 4838980869423100294
+    second: MC_idle_fire_Combined_21
+  - first:
+      213: 3385112330681511599
+    second: MC_idle_fire_Combined_22
+  - first:
+      213: -519773625740809464
+    second: MC_idle_fire_Combined_23
+  - first:
+      213: 8312529253657004890
+    second: MC_idle_fire_Combined_24
+  - first:
+      213: 8263756945483618988
+    second: MC_idle_fire_Combined_25
+  - first:
+      213: -8194491222697682298
+    second: MC_idle_fire_Combined_26
+  - first:
+      213: -8452586223042893171
+    second: MC_idle_fire_Combined_27
+  - first:
+      213: 8982895047376892102
+    second: MC_idle_fire_Combined_28
+  - first:
+      213: -4424012716782901192
+    second: MC_idle_fire_Combined_29
+  - first:
+      213: 3731963758538030375
+    second: MC_idle_fire_Combined_30
+  - first:
+      213: 9115444175768879767
+    second: MC_idle_fire_Combined_31
+  - first:
+      213: 4170783626076689346
+    second: MC_idle_fire_Combined_32
+  - first:
+      213: -3282893238631896324
+    second: MC_idle_fire_Combined_33
+  - first:
+      213: 8507932795944057914
+    second: MC_idle_fire_Combined_34
+  - first:
+      213: -5016499580135917731
+    second: MC_idle_fire_Combined_35
+  - first:
+      213: 529252297159716627
+    second: MC_idle_fire_Combined_36
+  - first:
+      213: 4883776565887005973
+    second: MC_idle_fire_Combined_37
+  - first:
+      213: -3839314266973451919
+    second: MC_idle_fire_Combined_38
+  - first:
+      213: -3552963801643428587
+    second: MC_idle_fire_Combined_39
+  - first:
+      213: 1231250289775919836
+    second: MC_idle_fire_Combined_40
+  - first:
+      213: -3428862374475757876
+    second: MC_idle_fire_Combined_41
+  - first:
+      213: -4742892278600151814
+    second: MC_idle_fire_Combined_42
+  - first:
+      213: 336381721750744492
+    second: MC_idle_fire_Combined_43
+  - first:
+      213: 133578384085295482
+    second: MC_idle_fire_Combined_44
+  - first:
+      213: -3865454809189299903
+    second: MC_idle_fire_Combined_45
+  - first:
+      213: -7692185701367733497
+    second: MC_idle_fire_Combined_46
+  - first:
+      213: -8347460859946454719
+    second: MC_idle_fire_Combined_47
+  - first:
+      213: 505079675179801766
+    second: MC_idle_fire_Combined_48
+  - first:
+      213: 7033963506070428105
+    second: MC_idle_fire_Combined_49
+  - first:
+      213: 2892050470065863533
+    second: MC_idle_fire_Combined_50
+  - first:
+      213: -3959033529492528150
+    second: MC_idle_fire_Combined_51
+  - first:
+      213: 8387246085239511320
+    second: MC_idle_fire_Combined_52
+  - first:
+      213: -6799051878533082220
+    second: MC_idle_fire_Combined_53
+  - first:
+      213: -1204340035643012111
+    second: MC_idle_fire_Combined_54
+  - first:
+      213: -8818378182122759059
+    second: MC_idle_fire_Combined_55
+  - first:
+      213: -5422104375264540427
+    second: MC_idle_fire_Combined_56
+  - first:
+      213: 7461728656451047680
+    second: MC_idle_fire_Combined_57
+  - first:
+      213: -5153518916476875218
+    second: MC_idle_fire_Combined_58
+  - first:
+      213: 8025977285295656740
+    second: MC_idle_fire_Combined_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_0
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 12829
+        width: 878
+        height: 1511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f473cd9d5f8124ceea2977e96762dd97
+      internalID: 1577137112392514951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_1
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 12830
+        width: 877
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c75eb9384124e57bad8a6d3cd65ba0
+      internalID: 8982540588113109531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_2
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 12830
+        width: 878
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddde0755983e4427f8e7a9250507746c
+      internalID: -4257642881825543989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_3
+      rect:
+        serializedVersion: 2
+        x: 5249
+        y: 12832
+        width: 871
+        height: 1501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b90e97c82dc64a6996ae53248e8cddd
+      internalID: 8751652303243406335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_4
+      rect:
+        serializedVersion: 2
+        x: 6852
+        y: 12830
+        width: 864
+        height: 1503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b532d7245a44d1b96b575ff95fa9a8
+      internalID: -6378607191122050806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_5
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 12830
+        width: 864
+        height: 1501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb4c15b266054b949ae5a53d2bf7fda
+      internalID: 5858547366893496204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_6
+      rect:
+        serializedVersion: 2
+        x: 10051
+        y: 12830
+        width: 857
+        height: 1496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea73200e788a40008c9457be89c17e4
+      internalID: 8801268740621484140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 11232
+        width: 850
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2880f139ae0614871a956947faf112ec
+      internalID: -7112099849118391032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_8
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 11232
+        width: 843
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca21cdd574f714a1b9026bcff561d9a4
+      internalID: -168648393490997585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_9
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 11232
+        width: 836
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee886a13ecda4ff2b15cc902bd51ec1
+      internalID: 2970004310557623266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_10
+      rect:
+        serializedVersion: 2
+        x: 5263
+        y: 11232
+        width: 829
+        height: 1490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fbeb60e422b4f3d954a5fb59a422b4
+      internalID: -5650149207212722537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_11
+      rect:
+        serializedVersion: 2
+        x: 6866
+        y: 11232
+        width: 822
+        height: 1484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5639eb61fa2847509e385a696e85ed5
+      internalID: 6371048565334266108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_12
+      rect:
+        serializedVersion: 2
+        x: 8469
+        y: 11232
+        width: 815
+        height: 1484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e331e0f32d746ed9f7236997bcf36a
+      internalID: 7701985007024860033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_13
+      rect:
+        serializedVersion: 2
+        x: 10072
+        y: 11232
+        width: 808
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246c4dc19539c46ef943329fbe89de7a
+      internalID: 6015278007661536133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_14
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 9629
+        width: 801
+        height: 1496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84752b5219be44f49818d7bf92a7328c
+      internalID: 84002606469202790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_15
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 9629
+        width: 794
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000bf7b09767e482aa7f41a2de71d62f
+      internalID: -6565445458106419243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_16
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 9629
+        width: 787
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d182dfbcbf8074ed7aefeafdb2aecd2f
+      internalID: 6042568457584940731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_17
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 9629
+        width: 787
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12951921999454e99ab1b95277ec3842
+      internalID: -8258868499773739436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_18
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 9629
+        width: 780
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17409464aaaa8408192ceb1cc960b344
+      internalID: 7604196605130339171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_19
+      rect:
+        serializedVersion: 2
+        x: 8476
+        y: 9629
+        width: 779
+        height: 1505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90f02500a83c438cae352294f12eb96
+      internalID: 1494628744663865130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_20
+      rect:
+        serializedVersion: 2
+        x: 10079
+        y: 9630
+        width: 772
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c167cc4e1e045f69fd0ef1b9a7ecf7
+      internalID: -9172666384283371620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_21
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 8033
+        width: 765
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b30d9dcb637048c787a57c25a10cf18
+      internalID: 4838980869423100294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_22
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 8033
+        width: 759
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290b3626f06994723b169cc5b416f66e
+      internalID: 3385112330681511599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_23
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 8033
+        width: 758
+        height: 1505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468cc2fa6559445e4b6287789d889f43
+      internalID: -519773625740809464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_24
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 8033
+        width: 759
+        height: 1505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc511e96399441669f7214f5d9705e7
+      internalID: 8312529253657004890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_25
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 8033
+        width: 752
+        height: 1505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b61e6900bc34411e86204775f81caf8
+      internalID: 8263756945483618988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_26
+      rect:
+        serializedVersion: 2
+        x: 8476
+        y: 8033
+        width: 752
+        height: 1505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8995090ca70f345f1bc57f175a4f9194
+      internalID: -8194491222697682298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_27
+      rect:
+        serializedVersion: 2
+        x: 10079
+        y: 8033
+        width: 745
+        height: 1511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bf1c4789f024d68af52eb15d0a4e4f
+      internalID: -8452586223042893171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_28
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 6430
+        width: 744
+        height: 1512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1ac27596c7d4ba1b94b1576e1067e5
+      internalID: 8982895047376892102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_29
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 6430
+        width: 744
+        height: 1518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b428a92cd7cb94031ac9b3cd8817b4fc
+      internalID: -4424012716782901192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_30
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 6430
+        width: 738
+        height: 1519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601458914b5d24cf196b73acc6721e07
+      internalID: 3731963758538030375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_31
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 6430
+        width: 745
+        height: 1519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2df706b43334031a7b37cb9842a437
+      internalID: 9115444175768879767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_32
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 6430
+        width: 745
+        height: 1526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450c0b80b24264c90b4f8de2f89a4ca5
+      internalID: 4170783626076689346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_33
+      rect:
+        serializedVersion: 2
+        x: 8476
+        y: 6430
+        width: 751
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197bb45f2ef04485c85e5651f1a43d95
+      internalID: -3282893238631896324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_34
+      rect:
+        serializedVersion: 2
+        x: 10079
+        y: 6430
+        width: 751
+        height: 1519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f98ac9ba47b40a998d8c2577c3fd66
+      internalID: 8507932795944057914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_35
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 4834
+        width: 758
+        height: 1511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1a2ea90441e49d887863e0af8226a6
+      internalID: -5016499580135917731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_36
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 4834
+        width: 758
+        height: 1505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39af379f036f4e0284afa051a834e51
+      internalID: 529252297159716627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_37
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 4834
+        width: 758
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9b9f55e3d6a4aceb95cdb9d62ebec1
+      internalID: 4883776565887005973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_38
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 4834
+        width: 765
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb66f7331df0425493efae30ac53bd0
+      internalID: -3839314266973451919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_39
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 4834
+        width: 766
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf65c36727a814d8295b2801646bf181
+      internalID: -3552963801643428587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_40
+      rect:
+        serializedVersion: 2
+        x: 8476
+        y: 4834
+        width: 773
+        height: 1490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c55ead505034a3d89e758006e4022c
+      internalID: 1231250289775919836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_41
+      rect:
+        serializedVersion: 2
+        x: 10079
+        y: 4834
+        width: 773
+        height: 1484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa617315d36243bcb7fa44d80f91e2a
+      internalID: -3428862374475757876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_42
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 3231
+        width: 779
+        height: 1483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe40201f9b754cc299b75cc4ec7878c
+      internalID: -4742892278600151814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_43
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 3231
+        width: 786
+        height: 1490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbc93ff9c7544c14a656b5e01c16cdd
+      internalID: 336381721750744492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_44
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 3231
+        width: 787
+        height: 1494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847c0aeda2db24dd3bf2283273f009ca
+      internalID: 133578384085295482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_45
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 3231
+        width: 794
+        height: 1497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af42f6787b50d4bbb9c59a80a5bdc00f
+      internalID: -3865454809189299903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_46
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 3231
+        width: 794
+        height: 1498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e918721bea98c4ca9a8b1b5a79b231d8
+      internalID: -7692185701367733497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_47
+      rect:
+        serializedVersion: 2
+        x: 8476
+        y: 3231
+        width: 801
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0548786b6767b49f998a2b64a7f26bb0
+      internalID: -8347460859946454719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_48
+      rect:
+        serializedVersion: 2
+        x: 10079
+        y: 3231
+        width: 808
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed697db5a90584e94b8866938e1b8d31
+      internalID: 505079675179801766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_49
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1630
+        width: 814
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d07fd7f1fd7440684b10967b03c4e4
+      internalID: 7033963506070428105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_50
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 1630
+        width: 815
+        height: 1509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb2d3e62042e40ac8a61ac82bdc5c6d
+      internalID: 2892050470065863533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_51
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 1631
+        width: 815
+        height: 1508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f91b8f555a2a4011836657833aa45b3
+      internalID: -3959033529492528150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_52
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 1635
+        width: 829
+        height: 1511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1b777cc4cb3477fb1d0e987a007176
+      internalID: 8387246085239511320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_53
+      rect:
+        serializedVersion: 2
+        x: 6866
+        y: 1635
+        width: 836
+        height: 1511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9261ec8d5307a498d84b3e2dd06bc739
+      internalID: -6799051878533082220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_54
+      rect:
+        serializedVersion: 2
+        x: 8462
+        y: 1635
+        width: 849
+        height: 1511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585ace3829f6d4ad38071adcb26d103a
+      internalID: -1204340035643012111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_55
+      rect:
+        serializedVersion: 2
+        x: 10058
+        y: 1635
+        width: 857
+        height: 1518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4402d5038dd4aaeb5c90f3b8195190
+      internalID: -8818378182122759059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_56
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 32
+        width: 864
+        height: 1525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c64cc638c2d4400f957c5aa315e2ac6
+      internalID: -5422104375264540427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_57
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 32
+        width: 871
+        height: 1525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039f68f48af4b4a9187f7b6da2be3a72
+      internalID: 7461728656451047680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_58
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 32
+        width: 872
+        height: 1525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dc707d9085d4a168e3ce770df3d977
+      internalID: -5153518916476875218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_idle_fire_Combined_59
+      rect:
+        serializedVersion: 2
+        x: 5249
+        y: 32
+        width: 878
+        height: 1525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac25474ba143486387c8b3907518b6c
+      internalID: 8025977285295656740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

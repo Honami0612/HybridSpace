@@ -35,11 +35,7 @@ public class ModeChange : MonoBehaviour {
        
         Mode();
         ChangeModeState();
-        //if (lifeSpritenumber >= 10)
-        //{
-        //    SceneManager.LoadScene("GameOver");
-        //    //GameOver
-        //}
+       
 
 	}
 
